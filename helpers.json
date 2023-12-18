@@ -1,0 +1,4460 @@
+[
+	{
+		"name" : "EM SAMUEL DA SILVA FILHO",
+		"ip" : "172.16.58.130",
+		"latitude" : -23.61769050,
+		"longitude" : -46.95234900
+	},
+	{
+		"name" : "EM PROFª OTÍLIA FREIRE DOS SANTOS SHIMADA",
+		"ip" : "172.16.56.250",
+		"latitude" : -23.60121160,
+		"longitude" : -46.89825620
+	},
+	{
+		"name" : "EM JOAQUIM PEREIRA DA SILVA",
+		"ip" : "172.16.63.70",
+		"latitude" : -23.61206060,
+		"longitude" : -46.93051570
+	},
+	{
+		"name" : "E.M RODOLPHO MEHLMANN",
+		"ip" : "172.17.0.210",
+		"latitude" : -23.53380450,
+		"longitude" : -46.17989518
+	},
+	{
+		"name" : "SABAÚNA",
+		"ip" : "172.17.0.140",
+		"latitude" : -23.47973000,
+		"longitude" : -46.08723000
+	},
+	{
+		"name" : "EM BENVINDA DOS SANTOS OLIVEIRA",
+		"ip" : "172.16.55.30",
+		"latitude" : -23.62204000,
+		"longitude" : -46.92738420
+	},
+	{
+		"name" : "CE HO DEH KONG",
+		"ip" : "172.16.55.110",
+		"latitude" : -23.59781680,
+		"longitude" : -46.87217410
+	},
+	{
+		"name" : "Maria da Cruz Resende",
+		"ip" : "192.168.10.110",
+		"latitude" : -19.76858300,
+		"longitude" : -44.13475000
+	},
+	{
+		"name" : "EM ANDRESSA SOARES GOMES",
+		"ip" : "172.16.53.90",
+		"latitude" : -23.66161410,
+		"longitude" : -47.04795430
+	},
+	{
+		"name" : "EM JOSÉ ROBERTO BARAÚNA FILHO",
+		"ip" : "172.16.55.150",
+		"latitude" : -23.60811200,
+		"longitude" : -46.85384000
+	},
+	{
+		"name" : "EM PROFESSOR JOÃO LUIZ MONTANHEIRO",
+		"ip" : "",
+		"latitude" : -23.66782330,
+		"longitude" : -47.02445330
+	},
+	{
+		"name" : "RUA CEDRO T23 X RUA GOVERNADOR JORGE TEIXEIRA K5",
+		"ip" : "172.17.8.160",
+		"latitude" : -10.88016307,
+		"longitude" : -61.90593443
+	},
+	{
+		"name" : "Prefeitura",
+		"ip" : "172.16.40.20",
+		"latitude" : -27.15448800,
+		"longitude" : -48.54239200
+	},
+	{
+		"name" : "BETA",
+		"ip" : "192.169.5.30",
+		"latitude" : -25.39070000,
+		"longitude" : -49.16587072
+	},
+	{
+		"name" : "TREVO POSTO JATAI",
+		"ip" : "172.16.12.82",
+		"latitude" : -20.31867700,
+		"longitude" : -48.29916800
+	},
+	{
+		"name" : "EM SIDRÔNIA NUNES PIRES",
+		"ip" : "172.16.57.230",
+		"latitude" : -23.60787770,
+		"longitude" : -46.92885530
+	},
+	{
+		"name" : "AV. BRASIL X RUA MARACATIARA",
+		"ip" : "172.17.8.130",
+		"latitude" : -10.88594499,
+		"longitude" : -61.90859691
+	},
+	{
+		"name" : "EM EDUARDO BENJAMIN JAFET,ENG",
+		"ip" : "172.16.51.250",
+		"latitude" : -23.60285590,
+		"longitude" : -46.82427380
+	},
+	{
+		"name" : "Marisa Leticia",
+		"ip" : "172.16.14.82",
+		"latitude" : -22.92253697,
+		"longitude" : -42.93671405
+	},
+	{
+		"name" : "EM EDNÉIA DOS SANTOS PIRES",
+		"ip" : "172.16.54.10",
+		"latitude" : -23.67725320,
+		"longitude" : -47.02018030
+	},
+	{
+		"name" : "IVANI MARIA PAES",
+		"ip" : "172.17.82.10",
+		"latitude" : -23.50191329,
+		"longitude" : -46.87039000
+	},
+	{
+		"name" : "CE ODARIA MENDONÇA DA FONSECA",
+		"ip" : "172.16.53.10",
+		"latitude" : -23.63323840,
+		"longitude" : -46.94694540
+	},
+	{
+		"name" : "CE GRANJA CAROLINA",
+		"ip" : "172.16.54.210",
+		"latitude" : -23.60324270,
+		"longitude" : -46.93978400
+	},
+	{
+		"name" : "CASA GRANDE",
+		"ip" : "192.168.150.30",
+		"latitude" : -23.70734150,
+		"longitude" : -46.59492860
+	},
+	{
+		"name" : "CE YVETH NADER CAVALCANTE",
+		"ip" : "172.16.54.130",
+		"latitude" : -23.60929850,
+		"longitude" : -46.91820910
+	},
+	{
+		"name" : "EM RECANTO VISTA ALEGRE",
+		"ip" : "172.16.62.50",
+		"latitude" : -23.59588160,
+		"longitude" : -46.93002580
+	},
+	{
+		"name" : "BR-364 200MT DO POSTO G CATARINESE",
+		"ip" : "172.17.10.120",
+		"latitude" : -12.73380500,
+		"longitude" : -60.15946900
+	},
+	{
+		"name" : "CARREFOUR",
+		"ip" : "192.168.150.10",
+		"latitude" : -23.68407410,
+		"longitude" : -46.63298980
+	},
+	{
+		"name" : "EM MIRANTE DA MATA",
+		"ip" : "172.16.60.130",
+		"latitude" : -23.61888130,
+		"longitude" : -46.95020670
+	},
+	{
+		"name" : "João Wilinski",
+		"ip" : "192.168.11.10",
+		"latitude" : -25.36559990,
+		"longitude" : -49.23227390
+	},
+	{
+		"name" : "EM JOSÉ MENDES DA SILVA",
+		"ip" : "172.16.58.210",
+		"latitude" : -23.76067320,
+		"longitude" : -47.02812460
+	},
+	{
+		"name" : "CE MAGALI DO NASCIMENTO VIEIRA ARIAS",
+		"ip" : "172.16.53.210",
+		"latitude" : -23.58525420,
+		"longitude" : -46.81726660
+	},
+	{
+		"name" : "PARQUE REID",
+		"ip" : "192.168.150.180",
+		"latitude" : -23.67733060,
+		"longitude" : -46.62785410
+	},
+	{
+		"name" : "Tijuco Preto",
+		"ip" : "172.16.4.190",
+		"latitude" : -23.63974000,
+		"longitude" : -46.98921000
+	},
+	{
+		"name" : "Pça. Sta. Isabel",
+		"ip" : "172.16.4.240",
+		"latitude" : -23.58615000,
+		"longitude" : -46.81795000
+	},
+	{
+		"name" : "Lamartine Babo",
+		"ip" : "172.16.5.100",
+		"latitude" : -23.61906000,
+		"longitude" : -46.94827000
+	},
+	{
+		"name" : "Retorno KM 22",
+		"ip" : "172.16.4.230",
+		"latitude" : -23.58898000,
+		"longitude" : -46.82994000
+	},
+	{
+		"name" : "Mercado Municipal",
+		"ip" : "172.16.4.220",
+		"latitude" : -23.60349000,
+		"longitude" : -46.91790000
+	},
+	{
+		"name" : "São Fernando",
+		"ip" : "172.16.5.130",
+		"latitude" : -23.59600000,
+		"longitude" : -46.88021000
+	},
+	{
+		"name" : "Eid Mansur",
+		"ip" : "172.16.4.130",
+		"latitude" : -23.59888200,
+		"longitude" : -46.84801500
+	},
+	{
+		"name" : "Ubs do Atalaia",
+		"ip" : "172.16.5.80",
+		"latitude" : -23.60807000,
+		"longitude" : -46.94637000
+	},
+	{
+		"name" : "AV. DAS SERINGUEIRAS T14 X AV. ARACAJU",
+		"ip" : "172.17.8.140",
+		"latitude" : -10.89190858,
+		"longitude" : -61.91453731
+	},
+	{
+		"name" : "Pça. Sabiá",
+		"ip" : "172.16.4.120",
+		"latitude" : -23.60055000,
+		"longitude" : -46.89805000
+	},
+	{
+		"name" : "EM FRANCISCO CAMILO",
+		"ip" : "172.16.62.130",
+		"latitude" : -23.58614200,
+		"longitude" : -46.81729210
+	},
+	{
+		"name" : "KM 39",
+		"ip" : "172.16.4.160",
+		"latitude" : -23.61587000,
+		"longitude" : -46.97156000
+	},
+	{
+		"name" : "João Paulo Ablas",
+		"ip" : "172.16.5.50",
+		"latitude" : -23.59771000,
+		"longitude" : -46.84172000
+	},
+	{
+		"name" : "Atacadão",
+		"ip" : "172.16.5.10",
+		"latitude" : -23.60307000,
+		"longitude" : -46.91846000
+	},
+	{
+		"name" : "Mirizolla",
+		"ip" : "172.16.4.110",
+		"latitude" : -23.58030000,
+		"longitude" : -46.92130000
+	},
+	{
+		"name" : "Pça. dos Maçons",
+		"ip" : "172.16.5.20",
+		"latitude" : -23.60059000,
+		"longitude" : -46.84663000
+	},
+	{
+		"name" : "Citi",
+		"ip" : "172.16.4.80",
+		"latitude" : -23.60436000,
+		"longitude" : -46.90998000
+	},
+	{
+		"name" : "BR-364 EM FRENTE AO POSTO SÃO JOSÉ 1",
+		"ip" : "172.17.12.140",
+		"latitude" : -11.44763368,
+		"longitude" : -61.43348415
+	},
+	{
+		"name" : "Creche Turiguara",
+		"ip" : "172.16.5.110",
+		"latitude" : -23.59424000,
+		"longitude" : -46.91689000
+	},
+	{
+		"name" : "GAMA",
+		"ip" : "192.169.5.10",
+		"latitude" : -25.39026934,
+		"longitude" : -49.16579421
+	},
+	{
+		"name" : "Jd. Japão",
+		"ip" : "172.16.5.30",
+		"latitude" : -23.66226000,
+		"longitude" : -47.07284000
+	},
+	{
+		"name" : "Shopping da Granja",
+		"ip" : "172.16.4.140",
+		"latitude" : -23.59256731,
+		"longitude" : -46.83528430
+	},
+	{
+		"name" : "MC Donalds",
+		"ip" : "172.16.4.60",
+		"latitude" : -23.60722000,
+		"longitude" : -46.92530000
+	},
+	{
+		"name" : "Term. Caucia do Alto",
+		"ip" : "172.16.4.180",
+		"latitude" : -23.68696000,
+		"longitude" : -47.02093000
+	},
+	{
+		"name" : "São Paulo II",
+		"ip" : "172.16.5.40",
+		"latitude" : -23.59659000,
+		"longitude" : -46.86301300
+	},
+	{
+		"name" : "Água Espraiada",
+		"ip" : "172.16.4.210",
+		"latitude" : -23.66115000,
+		"longitude" : -47.04780000
+	},
+	{
+		"name" : "Prq. Chico Anysio",
+		"ip" : "172.16.4.100",
+		"latitude" : -23.61520000,
+		"longitude" : -46.93630000
+	},
+	{
+		"name" : "ESTR do Embú\/Assaí",
+		"ip" : "172.16.4.200",
+		"latitude" : -23.60138500,
+		"longitude" : -46.85768200
+	},
+	{
+		"name" : "Roque Celestino",
+		"ip" : "172.16.4.170",
+		"latitude" : -23.68459000,
+		"longitude" : -47.02163000
+	},
+	{
+		"name" : "Calçadão",
+		"ip" : "172.16.5.70",
+		"latitude" : -23.60399300,
+		"longitude" : -46.92960900
+	},
+	{
+		"name" : "Est. Capuava",
+		"ip" : "172.16.5.140",
+		"latitude" : -23.60081000,
+		"longitude" : -46.85980000
+	},
+	{
+		"name" : "RT 23",
+		"ip" : "172.16.4.70",
+		"latitude" : -23.59349000,
+		"longitude" : -46.83790000
+	},
+	{
+		"name" : "Pça. Calil Filho",
+		"ip" : "172.16.5.60",
+		"latitude" : -23.60500000,
+		"longitude" : -46.92593000
+	},
+	{
+		"name" : "São Camilo",
+		"ip" : "172.16.4.90",
+		"latitude" : -23.58187000,
+		"longitude" : -46.83873000
+	},
+	{
+		"name" : "Hospital Infantil",
+		"ip" : "172.16.5.120",
+		"latitude" : -23.60415000,
+		"longitude" : -46.92460000
+	},
+	{
+		"name" : "CANHEMA",
+		"ip" : "192.168.150.120",
+		"latitude" : -23.67333610,
+		"longitude" : -46.60574320
+	},
+	{
+		"name" : "QUARTEIRÃO DA SAÚDE",
+		"ip" : "192.168.150.210",
+		"latitude" : -23.68596480,
+		"longitude" : -46.61627930
+	},
+	{
+		"name" : "EM IDALINA GODINHO DA SILVA",
+		"ip" : "172.16.58.250",
+		"latitude" : -23.66122970,
+		"longitude" : -47.04782890
+	},
+	{
+		"name" : "CE ANA MARIA DOS SANTOS SOUZA",
+		"ip" : "172.16.53.170",
+		"latitude" : -23.62661050,
+		"longitude" : -46.93766770
+	},
+	{
+		"name" : "FUNDO SOCIAL",
+		"ip" : "172.16.43.110",
+		"latitude" : -23.11093417,
+		"longitude" : -46.55760573
+	},
+	{
+		"name" : "CE MARIA JOSÉ DOS SANTOS",
+		"ip" : "172.16.49.170",
+		"latitude" : -23.68612670,
+		"longitude" : -47.03087790
+	},
+	{
+		"name" : "EM BENEDICTA VAZ PEDROSO DE ALBUQUERQUE",
+		"ip" : "172.16.51.170",
+		"latitude" : -23.65670510,
+		"longitude" : -47.02210290
+	},
+	{
+		"name" : "ROTATÓRIA AVENIDA ANTONIO DIAS BASTOS",
+		"ip" : "172.16.14.70",
+		"latitude" : -23.53343459,
+		"longitude" : -47.13634328
+	},
+	{
+		"name" : "EM JARDIM DAS GRAÇAS",
+		"ip" : "172.16.60.210",
+		"latitude" : -23.62512650,
+		"longitude" : -46.93802500
+	},
+	{
+		"name" : "PREFEITO TAKAO ONO",
+		"ip" : "172.16.42.140",
+		"latitude" : -23.13313477,
+		"longitude" : -46.58544151
+	},
+	{
+		"name" : "Júlia Cavassin",
+		"ip" : "192.168.2.10",
+		"latitude" : -25.35198744,
+		"longitude" : -49.21397800
+	},
+	{
+		"name" : "NORIVAL TAVARES",
+		"ip" : "172.17.0.90",
+		"latitude" : -23.52296000,
+		"longitude" : -46.18222500
+	},
+	{
+		"name" : "AUTO ESC. CLAUD.",
+		"ip" : "172.16.6.140",
+		"latitude" : -20.02528010,
+		"longitude" : -48.94101630
+	},
+	{
+		"name" : "EM CHACARA CANTAGALO",
+		"ip" : "172.16.59.230",
+		"latitude" : -23.61365440,
+		"longitude" : -46.83697740
+	},
+	{
+		"name" : "EM JOSÉ GROTOLI",
+		"ip" : "172.16.50.190",
+		"latitude" : -23.61328750,
+		"longitude" : -46.91693040
+	},
+	{
+		"name" : "EM MAISA APARECIDA RIBEIRO",
+		"ip" : "172.16.62.210",
+		"latitude" : -23.68737200,
+		"longitude" : -47.01991090
+	},
+	{
+		"name" : "CE GRACILIANA MARIA DA CONCEIÇÃO",
+		"ip" : "172.16.61.230",
+		"latitude" : -23.61976720,
+		"longitude" : -46.93483120
+	},
+	{
+		"name" : "CE JARDIM NOMURA",
+		"ip" : "172.16.49.210",
+		"latitude" : -23.60499130,
+		"longitude" : -46.91243500
+	},
+	{
+		"name" : "PROF. GUILHERME PILEGGI CONTESINI",
+		"ip" : "172.16.42.120",
+		"latitude" : -23.12443600,
+		"longitude" : -46.56126500
+	},
+	{
+		"name" : "CENTRO DE CONVENÇÕES",
+		"ip" : "172.16.43.150",
+		"latitude" : -23.12005059,
+		"longitude" : -46.54758880
+	},
+	{
+		"name" : "CE JOSÉ ROBERTO MACENO",
+		"ip" : "172.16.51.210",
+		"latitude" : -23.61759900,
+		"longitude" : -46.95260450
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL NADIME DERZE JORGE 2",
+		"ip" : "172.16.31.30",
+		"latitude" : -18.99639300,
+		"longitude" : -49.47451800
+	},
+	{
+		"name" : "CE MARIA TEREZA PASTANA",
+		"ip" : "172.16.50.150",
+		"latitude" : -23.59890020,
+		"longitude" : -46.88018030
+	},
+	{
+		"name" : "PREFEITO GILBERTO SANTANNA",
+		"ip" : "172.16.43.30",
+		"latitude" : -23.04491355,
+		"longitude" : -46.57162621
+	},
+	{
+		"name" : "Posto Filomena",
+		"ip" : "192.168.10.10",
+		"latitude" : -19.78136400,
+		"longitude" : -44.07500300
+	},
+	{
+		"name" : "ENGENHARIA",
+		"ip" : "192.169.4.0",
+		"latitude" : -25.39075980,
+		"longitude" : -49.16632962
+	},
+	{
+		"name" : "EM EDITH DOS SANTOS SILVA",
+		"ip" : "172.16.49.10",
+		"latitude" : -23.58480540,
+		"longitude" : -46.89117820
+	},
+	{
+		"name" : "PROF. FRANCISCO DA SILVEIRA BUENO",
+		"ip" : "172.16.42.80",
+		"latitude" : -23.12943300,
+		"longitude" : -46.56985100
+	},
+	{
+		"name" : "Escola Luiza Augusta Guimarães",
+		"ip" : "192.168.10.90",
+		"latitude" : -19.77589400,
+		"longitude" : -44.11021000
+	},
+	{
+		"name" : "ENTRADA CAETETUBA",
+		"ip" : "172.16.43.180",
+		"latitude" : -23.11662241,
+		"longitude" : -46.57498528
+	},
+	{
+		"name" : "PIRAPORINHA",
+		"ip" : "192.168.150.150",
+		"latitude" : -23.69196080,
+		"longitude" : -46.58286990
+	},
+	{
+		"name" : "ESPAÇO ALTERNATIVO",
+		"ip" : "172.17.14.60",
+		"latitude" : -9.90555756,
+		"longitude" : -63.03439198
+	},
+	{
+		"name" : "CIEM 2 - CENTRO INTEGRADO DE EDUCAÇÃO MUNICIPAL 2",
+		"ip" : "172.16.43.70",
+		"latitude" : -23.13715500,
+		"longitude" : -46.58114200
+	},
+	{
+		"name" : "Módulo CEPT",
+		"ip" : "172.16.54.2",
+		"latitude" : -22.95661200,
+		"longitude" : -42.95318500
+	},
+	{
+		"name" : "Barroco - Itaipuaçu",
+		"ip" : "172.16.56.2",
+		"latitude" : -22.95760505,
+		"longitude" : -42.98004849
+	},
+	{
+		"name" : "ALVINÓPOLIS",
+		"ip" : "172.16.43.140",
+		"latitude" : -23.12300567,
+		"longitude" : -46.56571046
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL ROSA TAHAN",
+		"ip" : "172.16.30.80",
+		"latitude" : -19.00043100,
+		"longitude" : -49.45774000
+	},
+	{
+		"name" : "AV TANCREDO NEVES \/ CANAÃ",
+		"ip" : "172.17.14.70",
+		"latitude" : -9.91327326,
+		"longitude" : -63.03415410
+	},
+	{
+		"name" : "AV.MARINGA",
+		"ip" : "10.33.17.10",
+		"latitude" : -25.40565800,
+		"longitude" : -49.18985300
+	},
+	{
+		"name" : "THEREZINHA DO MENINO JESUS SILVEIRA CAMPOS",
+		"ip" : "172.16.42.60",
+		"latitude" : -23.12187135,
+		"longitude" : -46.58648134
+	},
+	{
+		"name" : "PROF. LICINIO CARPINELLI",
+		"ip" : "172.16.42.100",
+		"latitude" : -23.12056271,
+		"longitude" : -46.58395262
+	},
+	{
+		"name" : "ROTATÓRIA ROTARY",
+		"ip" : "172.16.43.170",
+		"latitude" : -23.12638142,
+		"longitude" : -46.55374494
+	},
+	{
+		"name" : "AV. MELVIN JONES COM A AV. CURITIBA",
+		"ip" : "172.17.10.140",
+		"latitude" : -12.72637270,
+		"longitude" : -60.14664820
+	},
+	{
+		"name" : "PRAÇA CÉU DAS ARTES",
+		"ip" : "192.168.150.70",
+		"latitude" : -23.71061740,
+		"longitude" : -46.60834590
+	},
+	{
+		"name" : "WALDA PAOLINETTI LOZASSO",
+		"ip" : "172.16.42.40",
+		"latitude" : -23.03388254,
+		"longitude" : -46.53528457
+	},
+	{
+		"name" : "PREFEITO WALTER ENGRÁCIA DE OLIVEIRA",
+		"ip" : "172.16.42.240",
+		"latitude" : -23.11767908,
+		"longitude" : -46.58666329
+	},
+	{
+		"name" : "JARDIM DOS PINHEIROS",
+		"ip" : "172.16.43.100",
+		"latitude" : -23.10901684,
+		"longitude" : -46.52414301
+	},
+	{
+		"name" : "TERMINAL DIADEMA",
+		"ip" : "192.168.150.190",
+		"latitude" : -23.68511010,
+		"longitude" : -46.62583000
+	},
+	{
+		"name" : "PRAÇA CELITE",
+		"ip" : "192.168.151.110",
+		"latitude" : -23.66349550,
+		"longitude" : -46.62024530
+	},
+	{
+		"name" : "EDUCADOR PAULO FREIRE",
+		"ip" : "172.16.42.180",
+		"latitude" : -23.09003274,
+		"longitude" : -46.64216788
+	},
+	{
+		"name" : "ROBERTO GRITI MEDEIROS",
+		"ip" : "172.21.210.10",
+		"latitude" : -23.52741900,
+		"longitude" : -46.86435900
+	},
+	{
+		"name" : "PROF. MARIA HELENA FARIA FERRAZ",
+		"ip" : "172.16.42.200",
+		"latitude" : -23.11313619,
+		"longitude" : -46.54505554
+	},
+	{
+		"name" : "FRENTE LAGO",
+		"ip" : "172.16.6.30",
+		"latitude" : -20.02531690,
+		"longitude" : -48.92587830
+	},
+	{
+		"name" : "Praca 83",
+		"ip" : "172.16.56.19",
+		"latitude" : -22.96943724,
+		"longitude" : -42.92700003
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL MANOEL ALVES VILELA",
+		"ip" : "172.16.30.50",
+		"latitude" : -18.98548700,
+		"longitude" : -49.47875500
+	},
+	{
+		"name" : "ESTÂNCIA GAÚCHA",
+		"ip" : "172.16.12.100",
+		"latitude" : -20.32908100,
+		"longitude" : -48.31208200
+	},
+	{
+		"name" : "PROFESSOR WALDEMAR BASTOS BUHLER",
+		"ip" : "172.16.43.10",
+		"latitude" : -23.14289573,
+		"longitude" : -46.58223268
+	},
+	{
+		"name" : "RODOVIÁRIA",
+		"ip" : "172.16.43.130",
+		"latitude" : -23.11548961,
+		"longitude" : -46.55763018
+	},
+	{
+		"name" : "AV. MAJOR MARANTES ESQUINA x RUA MARQUES HENRIQUE ",
+		"ip" : "172.17.10.50",
+		"latitude" : -12.74043109,
+		"longitude" : -60.13962135
+	},
+	{
+		"name" : "EM SILVIO PEDROSO",
+		"ip" : "172.16.63.70",
+		"latitude" : -23.58655500,
+		"longitude" : -46.92751120
+	},
+	{
+		"name" : "MERCADO MUNICIPAL",
+		"ip" : "172.16.43.160",
+		"latitude" : -23.11582147,
+		"longitude" : -46.55494848
+	},
+	{
+		"name" : "EM ROBERTO JORGE HADDOCK LOBO NETTO, PROF.",
+		"ip" : "172.16.57.110",
+		"latitude" : -23.59958690,
+		"longitude" : -46.91311090
+	},
+	{
+		"name" : "Darcy",
+		"ip" : "172.16.14.60",
+		"latitude" : -22.91350000,
+		"longitude" : -42.92902800
+	},
+	{
+		"name" : "Inoã",
+		"ip" : "172.16.54.20",
+		"latitude" : -22.91213000,
+		"longitude" : -42.93344200
+	},
+	{
+		"name" : "Av. Francisco Sabino",
+		"ip" : "172.16.52.50",
+		"latitude" : -22.90889923,
+		"longitude" : -42.82097648
+	},
+	{
+		"name" : "Dr. Antônio Ribeiro",
+		"ip" : "172.16.2.60",
+		"latitude" : -17.22478400,
+		"longitude" : -46.85876600
+	},
+	{
+		"name" : "CEUC CENT. EDUCACIONAL UNIFICADO DE COTIA TOTEM 02",
+		"ip" : "172.16.50.230",
+		"latitude" : -23.60494760,
+		"longitude" : -46.91257210
+	},
+	{
+		"name" : "Creche São Francisco de Assis",
+		"ip" : "172.16.2.230",
+		"latitude" : -17.22068800,
+		"longitude" : -46.86008400
+	},
+	{
+		"name" : "CEMEI Selva Santana Almeida",
+		"ip" : "172.16.2.160",
+		"latitude" : -17.24270700,
+		"longitude" : -46.85509400
+	},
+	{
+		"name" : "Creche São Sebastião",
+		"ip" : "172.16.3.10",
+		"latitude" : -17.19978200,
+		"longitude" : -46.83290400
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL CLORINDA JUNQUEIRA",
+		"ip" : "172.16.30.120",
+		"latitude" : -18.98182300,
+		"longitude" : -49.49155300
+	},
+	{
+		"name" : "SAIDA COAB II",
+		"ip" : "172.16.13.30",
+		"latitude" : -20.33929400,
+		"longitude" : -48.32938600
+	},
+	{
+		"name" : "EM THEREZA GERALDI",
+		"ip" : "172.17.1.150",
+		"latitude" : -23.55100630,
+		"longitude" : -46.25336280
+	},
+	{
+		"name" : "Gidalte Maria dos Santos",
+		"ip" : "172.16.2.70",
+		"latitude" : -17.20917400,
+		"longitude" : -46.88488700
+	},
+	{
+		"name" : "Creche Zilda Batista da Silva",
+		"ip" : "172.16.3.50",
+		"latitude" : -17.23221415,
+		"longitude" : -46.89179118
+	},
+	{
+		"name" : "CEMEI Tia Lucinha",
+		"ip" : "172.16.2.170",
+		"latitude" : -17.22789700,
+		"longitude" : -46.85337700
+	},
+	{
+		"name" : "Maria Trindade Alves Rodrigues",
+		"ip" : "172.16.2.140",
+		"latitude" : -17.15135000,
+		"longitude" : -46.83005000
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL NADIME DERZE JORGE 1",
+		"ip" : "172.16.30.210",
+		"latitude" : -18.99695000,
+		"longitude" : -49.47459400
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL CIME SARAH FÉRES SILVEIRA 2",
+		"ip" : "172.16.30.160",
+		"latitude" : -18.98276400,
+		"longitude" : -49.44910700
+	},
+	{
+		"name" : "Maria Laura",
+		"ip" : "172.16.10.120",
+		"latitude" : -21.72735600,
+		"longitude" : -45.26308900
+	},
+	{
+		"name" : "CEMEI MARISTELA MELIATO (Rotatória Kerry)",
+		"ip" : "172.16.10.170",
+		"latitude" : -21.70190400,
+		"longitude" : -45.24256600
+	},
+	{
+		"name" : "P.E.M Lúcia Cruz Gonçalves",
+		"ip" : "172.16.3.80",
+		"latitude" : -17.21060000,
+		"longitude" : -46.87880600
+	},
+	{
+		"name" : "ESTUDANTE NELSON JOSÉ PEDROSO",
+		"ip" : "172.16.42.160",
+		"latitude" : -23.21732924,
+		"longitude" : -46.59434783
+	},
+	{
+		"name" : "Bezerra de Menezes",
+		"ip" : "172.16.2.30",
+		"latitude" : -17.23088780,
+		"longitude" : -46.87611830
+	},
+	{
+		"name" : "JD. MARILENE",
+		"ip" : "192.168.150.170",
+		"latitude" : -23.69410800,
+		"longitude" : -46.59675260
+	},
+	{
+		"name" : "Joaquim Adjuto Botelho",
+		"ip" : "172.16.2.80",
+		"latitude" : -17.22060100,
+		"longitude" : -46.86061000
+	},
+	{
+		"name" : "Creche Criança Feliz",
+		"ip" : "172.16.3.60",
+		"latitude" : -17.23186200,
+		"longitude" : -46.86427300
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL AURELIANO JOAQUIM DA SILVA - CAIC 1",
+		"ip" : "172.16.30.190",
+		"latitude" : -19.00536000,
+		"longitude" : -49.47995700
+	},
+	{
+		"name" : "Leonor Ulhoa Victor Rodrigues",
+		"ip" : "172.16.2.90",
+		"latitude" : -17.22438300,
+		"longitude" : -46.86835000
+	},
+	{
+		"name" : "TABOÃO I",
+		"ip" : "192.168.150.110",
+		"latitude" : -23.66936160,
+		"longitude" : -46.60926850
+	},
+	{
+		"name" : "Praça do Correio",
+		"ip" : "172.16.28.180",
+		"latitude" : -23.96454811,
+		"longitude" : -46.38347721
+	},
+	{
+		"name" : "P.E.M Paulo Kleber Ulhoa ",
+		"ip" : "172.16.3.100",
+		"latitude" : -17.23730110,
+		"longitude" : -46.88519003
+	},
+	{
+		"name" : "Coraci Meireles de Oliveira",
+		"ip" : "172.16.2.50",
+		"latitude" : -17.20707600,
+		"longitude" : -46.87481300
+	},
+	{
+		"name" : "EM MARIA APARECIDA DE OLIVEIRA PEDROSO,PROFª",
+		"ip" : "172.16.61.110",
+		"latitude" : -23.63622690,
+		"longitude" : -46.95131840
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL DE 1º e 2º GRAUS MACHADO DE ASSIS 2",
+		"ip" : "172.16.30.140",
+		"latitude" : -18.98323100,
+		"longitude" : -49.45778400
+	},
+	{
+		"name" : "Creche Maria Conceição Macedo Neiva",
+		"ip" : "172.16.2.210",
+		"latitude" : -17.23862900,
+		"longitude" : -46.87135400
+	},
+	{
+		"name" : "VILA SÃO JOSÉ",
+		"ip" : "192.168.150.130",
+		"latitude" : -23.67564590,
+		"longitude" : -46.58329800
+	},
+	{
+		"name" : "Nair Rebelo",
+		"ip" : "172.16.40.50",
+		"latitude" : -27.15921200,
+		"longitude" : -48.56258400
+	},
+	{
+		"name" : "JD. PROMISSÃO",
+		"ip" : "192.168.150.160",
+		"latitude" : -23.69748750,
+		"longitude" : -46.59726270
+	},
+	{
+		"name" : "EM JARDIM COTIA",
+		"ip" : "172.16.49.50",
+		"latitude" : -23.59736110,
+		"longitude" : -46.91099210
+	},
+	{
+		"name" : "CE WALDE ROSI GALVAO ",
+		"ip" : "10.56.17.10",
+		"latitude" : -25.41891200,
+		"longitude" : -49.15206400
+	},
+	{
+		"name" : "CE BAIRRO SÃO MIGUEL",
+		"ip" : "172.16.52.70",
+		"latitude" : -23.63354670,
+		"longitude" : -46.93730330
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL HUGO DE OLIVEIRA CARVALHO 2",
+		"ip" : "172.16.30.240",
+		"latitude" : -18.96372700,
+		"longitude" : -49.47195600
+	},
+	{
+		"name" : "Hironildo",
+		"ip" : "172.16.40.40",
+		"latitude" : -27.15156900,
+		"longitude" : -48.58601900
+	},
+	{
+		"name" : "CEMITÉRIO",
+		"ip" : "172.16.6.150",
+		"latitude" : -20.03365050,
+		"longitude" : -48.94104880
+	},
+	{
+		"name" : "Cebolinha",
+		"ip" : "172.16.40.140",
+		"latitude" : -27.15738900,
+		"longitude" : -48.54211300
+	},
+	{
+		"name" : "EM HONORIO DE SYLOS",
+		"ip" : "172.16.61.70",
+		"latitude" : -23.60219940,
+		"longitude" : -46.87103260
+	},
+	{
+		"name" : "Lauro Mendonça",
+		"ip" : "172.16.40.90",
+		"latitude" : -27.16179900,
+		"longitude" : -48.58642500
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL SALIM BITTAR 1",
+		"ip" : "172.16.30.170",
+		"latitude" : -18.99111700,
+		"longitude" : -49.44697700
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL PREFEITO CAMILO CHAVES JÚNIOR 2",
+		"ip" : "172.16.30.70",
+		"latitude" : -18.98801300,
+		"longitude" : -49.46713400
+	},
+	{
+		"name" : "Primeiros Passos",
+		"ip" : "172.16.40.110",
+		"latitude" : -27.15424300,
+		"longitude" : -48.59182600
+	},
+	{
+		"name" : "EM TERESA BENVINDA HERVEY COSTA MAIA",
+		"ip" : "172.16.60.10",
+		"latitude" : -23.59487940,
+		"longitude" : -46.84679670
+	},
+	{
+		"name" : "EM MALVINA DE CASTRO",
+		"ip" : "172.16.62.250",
+		"latitude" : -23.56578280,
+		"longitude" : -46.92138440
+	},
+	{
+		"name" : "PRAÇA DER",
+		"ip" : "172.16.6.50",
+		"latitude" : -20.01653090,
+		"longitude" : -48.93600020
+	},
+	{
+		"name" : "AP DE MINAS",
+		"ip" : "172.16.6.40",
+		"latitude" : -20.13524350,
+		"longitude" : -49.11357290
+	},
+	{
+		"name" : "EM VITOR GONÇALVES DE SOUSA",
+		"ip" : "172.16.63.150",
+		"latitude" : -23.70296600,
+		"longitude" : -47.02658160
+	},
+	{
+		"name" : "Guerreiros",
+		"ip" : "172.16.40.70",
+		"latitude" : -27.15903400,
+		"longitude" : -48.57754900
+	},
+	{
+		"name" : "CE DO ATALAIA",
+		"ip" : "172.16.52.190",
+		"latitude" : -23.61164890,
+		"longitude" : -46.94689190
+	},
+	{
+		"name" : "Vila Nova",
+		"ip" : "172.16.40.30",
+		"latitude" : -27.15794000,
+		"longitude" : -48.56179200
+	},
+	{
+		"name" : "EM JARDIM ISIS",
+		"ip" : "172.16.57.150",
+		"latitude" : -23.62531070,
+		"longitude" : -46.95047380
+	},
+	{
+		"name" : "EM CÂNDIDO PINTO",
+		"ip" : "172.16.53.130",
+		"latitude" : -23.69842830,
+		"longitude" : -47.04353330
+	},
+	{
+		"name" : "EM JOÃO JAYME JUVENAL RICCI AYRES",
+		"ip" : "172.16.60.10",
+		"latitude" : -23.59433230,
+		"longitude" : -46.84368780
+	},
+	{
+		"name" : "EM JARDIM PANORAMA",
+		"ip" : "172.16.59.110",
+		"latitude" : -23.62086670,
+		"longitude" : -46.93622370
+	},
+	{
+		"name" : "Antonio Garcia",
+		"ip" : "172.16.40.150",
+		"latitude" : -27.19694000,
+		"longitude" : -48.63518900
+	},
+	{
+		"name" : "EM ILDEFONÇO EMELIANO DE BRITO",
+		"ip" : "172.16.56.130",
+		"latitude" : -23.63030300,
+		"longitude" : -46.90804020
+	},
+	{
+		"name" : "CE DANIELLI ALBUQUERQUE MATHIAS",
+		"ip" : "172.16.53.50",
+		"latitude" : -23.67558820,
+		"longitude" : -47.02388170
+	},
+	{
+		"name" : "Estela Machado",
+		"ip" : "172.16.40.80",
+		"latitude" : -27.15957300,
+		"longitude" : -48.57928600
+	},
+	{
+		"name" : "Lauro Prado",
+		"ip" : "172.16.40.60",
+		"latitude" : -27.16081700,
+		"longitude" : -48.56499700
+	},
+	{
+		"name" : "CE JARDIM DAS GRAÇAS",
+		"ip" : "172.16.52.30",
+		"latitude" : -23.61685920,
+		"longitude" : -46.93347630
+	},
+	{
+		"name" : "EM JOCINÉIA DE MELO",
+		"ip" : "172.16.62.10",
+		"latitude" : -23.62272070,
+		"longitude" : -46.92716710
+	},
+	{
+		"name" : "RUA UIRAPURÚS - ESCOLA JOSINO BRITO",
+		"ip" : "172.17.12.130",
+		"latitude" : -11.43299985,
+		"longitude" : -61.43141205
+	},
+	{
+		"name" : "Pe. LUIZ DE OLIVEIRA ANDRADE",
+		"ip" : "172.17.242.10",
+		"latitude" : -23.49172400,
+		"longitude" : -46.89004900
+	},
+	{
+		"name" : "EMEIF Hilda strenger Ribeiro",
+		"ip" : "172.16.0.230",
+		"latitude" : -23.81441900,
+		"longitude" : -46.07953200
+	},
+	{
+		"name" : "Neim Prof. Irene Vaz Pinto Lyra",
+		"ip" : "172.16.0.200",
+		"latitude" : -23.81419600,
+		"longitude" : -46.09310000
+	},
+	{
+		"name" : "EM TURIGUARA",
+		"ip" : "172.16.49.250",
+		"latitude" : -23.59578140,
+		"longitude" : -46.91510120
+	},
+	{
+		"name" : "EM JOAQUIM DE MORAES VICTOR",
+		"ip" : "172.16.56.170",
+		"latitude" : -23.61024610,
+		"longitude" : -46.91461830
+	},
+	{
+		"name" : "EM Caiubura",
+		"ip" : "172.16.1.110",
+		"latitude" : -23.87496600,
+		"longitude" : -46.18331300
+	},
+	{
+		"name" : "EM ASSIS JOSÉ DE OLIVEIRA",
+		"ip" : "172.16.51.130",
+		"latitude" : -23.66832630,
+		"longitude" : -47.00956800
+	},
+	{
+		"name" : "NEIM Mangue Seco",
+		"ip" : "172.16.0.170",
+		"latitude" : -23.81442300,
+		"longitude" : -46.11670800
+	},
+	{
+		"name" : "EM JOSÉ MANOEL DE OLIVEIRA",
+		"ip" : "172.16.59.70",
+		"latitude" : -23.73365630,
+		"longitude" : -47.02359050
+	},
+	{
+		"name" : "EM CREMONEZZIELYDIA SCOPEL ",
+		"ip" : "172.16.48.110",
+		"latitude" : -23.68082330,
+		"longitude" : -46.89616570
+	},
+	{
+		"name" : "EMEIF Genesio dos Santos",
+		"ip" : "172.16.1.10",
+		"latitude" : -23.80188200,
+		"longitude" : -46.08532300
+	},
+	{
+		"name" : "EM JARDIM DO ENGENHO",
+		"ip" : "172.16.60.170",
+		"latitude" : -23.61404310,
+		"longitude" : -46.83635250
+	},
+	{
+		"name" : "EM GASPAR DE GODOI MOREIRA",
+		"ip" : "172.16.51.10",
+		"latitude" : -23.66311310,
+		"longitude" : -47.07437940
+	},
+	{
+		"name" : "E.M Cristina dos Santos",
+		"ip" : "172.16.0.160",
+		"latitude" : -23.82308500,
+		"longitude" : -46.11507200
+	},
+	{
+		"name" : "E.M Dino Bueno",
+		"ip" : "172.16.0.100",
+		"latitude" : -23.85116800,
+		"longitude" : -46.14115300
+	},
+	{
+		"name" : "EM MARIA DO CARMO DE ALMEIDA,JORNALISTA",
+		"ip" : "172.16.61.150",
+		"latitude" : -23.59817070,
+		"longitude" : -46.91852460
+	},
+	{
+		"name" : "CEMEI - Centro Municipal de Educação Infantil Maria Floripes Alves Machado 2",
+		"ip" : "172.16.30.110",
+		"latitude" : -18.98272000,
+		"longitude" : -49.43754300
+	},
+	{
+		"name" : "EM FRANCISCO AMBROSIO  AZEVEDO",
+		"ip" : "172.16.50.110",
+		"latitude" : -23.61296630,
+		"longitude" : -46.92183960
+	},
+	{
+		"name" : "CE DR. DÉLIO LIMA JUNIOR",
+		"ip" : "172.16.51.50",
+		"latitude" : -23.66370790,
+		"longitude" : -47.07379410
+	},
+	{
+		"name" : "EM CRIANÇAS DE COTIA",
+		"ip" : "172.16.62.170",
+		"latitude" : -23.58015600,
+		"longitude" : -46.91792880
+	},
+	{
+		"name" : "EM ROSA MACIEL DE OLIVEIRA",
+		"ip" : "172.16.60.250",
+		"latitude" : -23.73426480,
+		"longitude" : -47.04778930
+	},
+	{
+		"name" : "Maiolini",
+		"ip" : "172.16.10.110",
+		"latitude" : -21.71145700,
+		"longitude" : -45.26357000
+	},
+	{
+		"name" : "HOSPITAL REGIONAL",
+		"ip" : "172.17.12.50",
+		"latitude" : -11.41717436,
+		"longitude" : -61.46358714
+	},
+	{
+		"name" : "Escola José Inácio",
+		"ip" : "172.16.0.90",
+		"latitude" : -23.83591100,
+		"longitude" : -46.13846500
+	},
+	{
+		"name" : "Escola Dephino Stockler",
+		"ip" : "172.16.0.110",
+		"latitude" : -23.84321900,
+		"longitude" : -46.13626200
+	},
+	{
+		"name" : "NEIM Amilton José do Amparo",
+		"ip" : "172.16.0.120",
+		"latitude" : -23.84967900,
+		"longitude" : -46.14203800
+	},
+	{
+		"name" : "EM FRANCISCO FERREIRA",
+		"ip" : "172.16.56.210",
+		"latitude" : -23.58031330,
+		"longitude" : -46.91755670
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL AURELIANO JOAQUIM DA SILVA - CAIC 2",
+		"ip" : "172.16.30.200",
+		"latitude" : -19.00544900,
+		"longitude" : -49.48099700
+	},
+	{
+		"name" : "JOAO BATISTA PAZINATO Jr.",
+		"ip" : "172.20.18.10",
+		"latitude" : -23.51096900,
+		"longitude" : -46.85548500
+	},
+	{
+		"name" : "Pier Licurgo",
+		"ip" : "172.16.0.60",
+		"latitude" : -23.85526100,
+		"longitude" : -46.13790400
+	},
+	{
+		"name" : "Orla da Praia x Tenda x Casa da Cultura",
+		"ip" : "172.16.0.40",
+		"latitude" : -23.85322100,
+		"longitude" : -46.13470300
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL SALIM BITTAR 2",
+		"ip" : "172.16.30.180",
+		"latitude" : -18.99120300,
+		"longitude" : -49.44612400
+	},
+	{
+		"name" : "PRAÇA DA LIBERDADE",
+		"ip" : "172.17.0.110",
+		"latitude" : -23.55071969,
+		"longitude" : -46.24991740
+	},
+	{
+		"name" : "AV. MARECHAL RONDON X AV. MONTE CASTELO",
+		"ip" : "172.17.8.50",
+		"latitude" : -10.87144849,
+		"longitude" : -61.96059161
+	},
+	{
+		"name" : "ESCOLA ENOCH",
+		"ip" : "172.16.12.200",
+		"latitude" : -20.31811700,
+		"longitude" : -48.31762417
+	},
+	{
+		"name" : "PARQUE DAS AGUAS",
+		"ip" : "10.59.17.10",
+		"latitude" : -25.44244300,
+		"longitude" : -49.14764700
+	},
+	{
+		"name" : "EM PORTAL DA PRIMAVERA",
+		"ip" : "172.16.62.90",
+		"latitude" : -23.60619900,
+		"longitude" : -46.90295610
+	},
+	{
+		"name" : "Ponte Santa Teresa (To a toa)",
+		"ip" : "172.16.10.90",
+		"latitude" : -21.70271200,
+		"longitude" : -45.25382000
+	},
+	{
+		"name" : "AV JACOB x SALGADO FILHO",
+		"ip" : "10.15.17.10",
+		"latitude" : -25.42899400,
+		"longitude" : -49.18343500
+	},
+	{
+		"name" : "AV. IRAI",
+		"ip" : "10.31.17.10",
+		"latitude" : -25.44955100,
+		"longitude" : -49.18277700
+	},
+	{
+		"name" : "Posto Hess",
+		"ip" : "172.16.10.40",
+		"latitude" : -21.68656300,
+		"longitude" : -45.26115200
+	},
+	{
+		"name" : "AV JACOB - MOD GM",
+		"ip" : "10.40.17.10",
+		"latitude" : -25.40041900,
+		"longitude" : -49.18265000
+	},
+	{
+		"name" : "EM ANTONIO PASCHOAL",
+		"ip" : "172.17.2.130",
+		"latitude" : -23.57123020,
+		"longitude" : -46.22161820
+	},
+	{
+		"name" : "NEIM Albatroz",
+		"ip" : "172.16.0.130",
+		"latitude" : -23.82845000,
+		"longitude" : -46.13941500
+	},
+	{
+		"name" : "EM VICENTE MACIEL",
+		"ip" : "172.16.56.50",
+		"latitude" : -23.59842910,
+		"longitude" : -46.88029220
+	},
+	{
+		"name" : "Neim Teodoro Quirino",
+		"ip" : "172.16.1.20",
+		"latitude" : -23.81295600,
+		"longitude" : -46.04635500
+	},
+	{
+		"name" : "PARQUE REAL",
+		"ip" : "192.168.150.90",
+		"latitude" : -23.69614160,
+		"longitude" : -46.62301300
+	},
+	{
+		"name" : "OSVALDO BATISTA PEREIRA",
+		"ip" : "172.18.136.10",
+		"latitude" : -23.54314400,
+		"longitude" : -46.88562300
+	},
+	{
+		"name" : "Ada Santana Ribeiro",
+		"ip" : "172.16.2.120",
+		"latitude" : -17.20164200,
+		"longitude" : -46.83472500
+	},
+	{
+		"name" : "HOTEL DO LAGO",
+		"ip" : "172.16.12.110",
+		"latitude" : -20.33352500,
+		"longitude" : -48.31545200
+	},
+	{
+		"name" : "CE.VITOR GONÇALVES DE SOUSA",
+		"ip" : "172.16.63.110",
+		"latitude" : -23.70166000,
+		"longitude" : -47.02669000
+	},
+	{
+		"name" : "teste",
+		"ip" : "192.169.1.111",
+		"latitude" : 20.32374563,
+		"longitude" : 48.31362544
+	},
+	{
+		"name" : "AVENIDA LUCAS",
+		"ip" : "172.16.43.120",
+		"latitude" : -23.13944049,
+		"longitude" : -46.55479945
+	},
+	{
+		"name" : "RESIDENCIAL MURAISHI",
+		"ip" : "172.16.13.40",
+		"latitude" : -20.32849200,
+		"longitude" : -48.31834100
+	},
+	{
+		"name" : "BAIRRO VILAGE DO SOL",
+		"ip" : "172.17.12.120",
+		"latitude" : -11.42192267,
+		"longitude" : -61.44115990
+	},
+	{
+		"name" : "PARQUE SABIÁ - BAIRRO BNH",
+		"ip" : "172.17.12.60",
+		"latitude" : -11.42366654,
+		"longitude" : -61.46498788
+	},
+	{
+		"name" : "PARQUE ECOLÓGICO",
+		"ip" : "192.168.150.40",
+		"latitude" : -23.71726610,
+		"longitude" : -46.62402660
+	},
+	{
+		"name" : "Creche Marcia Macedo Meireles - CAIC",
+		"ip" : "172.16.2.100",
+		"latitude" : -17.22871400,
+		"longitude" : -46.86182100
+	},
+	{
+		"name" : "EM PREF. IVO MARIO ISAAC PIRES",
+		"ip" : "172.16.59.30",
+		"latitude" : -23.69050100,
+		"longitude" : -47.02599570
+	},
+	{
+		"name" : "ESCOLA PADRE MARIO LANO",
+		"ip" : "172.16.12.180",
+		"latitude" : -20.32772100,
+		"longitude" : -48.32815700
+	},
+	{
+		"name" : "Ponta Negra",
+		"ip" : "172.16.19.200",
+		"latitude" : -22.95409000,
+		"longitude" : -42.69614000
+	},
+	{
+		"name" : "CE ANTONIO SALGADO OLORES",
+		"ip" : "172.16.52.110",
+		"latitude" : -23.62247680,
+		"longitude" : -46.92788130
+	},
+	{
+		"name" : "EM ERNESTO BENEDITO DE CAMARGO",
+		"ip" : "172.16.59.190",
+		"latitude" : -23.61629440,
+		"longitude" : -46.98505900
+	},
+	{
+		"name" : "PÇ Orlando de Barros",
+		"ip" : "172.16.51.18",
+		"latitude" : -22.91720000,
+		"longitude" : -42.81887000
+	},
+	{
+		"name" : "ESCOLA VICENCINA VACCARO",
+		"ip" : "172.16.12.190",
+		"latitude" : -20.32703200,
+		"longitude" : -48.31234600
+	},
+	{
+		"name" : "CEI - JOSEFINA",
+		"ip" : "172.16.12.130",
+		"latitude" : -20.32436300,
+		"longitude" : -48.31632700
+	},
+	{
+		"name" : "CAMILO DE LELLIS",
+		"ip" : "10.1.17.19",
+		"latitude" : -25.43797100,
+		"longitude" : -49.18594200
+	},
+	{
+		"name" : "ESCOLA MARIA AUXILIADORA ",
+		"ip" : "172.16.12.170",
+		"latitude" : -20.33010500,
+		"longitude" : -48.30926100
+	},
+	{
+		"name" : "ESCOLA ZEZINHO PORTUGAL",
+		"ip" : "172.16.12.220",
+		"latitude" : -20.32453400,
+		"longitude" : -48.31435300
+	},
+	{
+		"name" : "PRAÇA DOM PEDRO I ",
+		"ip" : "172.16.44.40",
+		"latitude" : -23.30097726,
+		"longitude" : -51.17817491
+	},
+	{
+		"name" : "JD. INAMAR",
+		"ip" : "192.168.150.60",
+		"latitude" : -23.71898810,
+		"longitude" : -46.61260890
+	},
+	{
+		"name" : "PRAÇA OITO DE DEZEMBRO",
+		"ip" : "192.168.150.220",
+		"latitude" : -23.68495150,
+		"longitude" : -46.61259020
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL AÍDA ANDRADE CHAVES 1",
+		"ip" : "172.16.30.20",
+		"latitude" : -18.95825500,
+		"longitude" : -49.47736540
+	},
+	{
+		"name" : "SECRETARIA DE EDUCAÇÃO 1",
+		"ip" : "172.16.8.10",
+		"latitude" : -23.49790000,
+		"longitude" : -46.86720000
+	},
+	{
+		"name" : "EM MÁRIO PORTES",
+		"ip" : "172.17.0.250",
+		"latitude" : -46.25400080,
+		"longitude" : -23.54984740
+	},
+	{
+		"name" : "Ponte Pensil",
+		"ip" : "172.16.28.230",
+		"latitude" : -23.97669073,
+		"longitude" : -46.38910983
+	},
+	{
+		"name" : "Saída São Thomé",
+		"ip" : "172.16.10.130",
+		"latitude" : -21.69091600,
+		"longitude" : -45.23928200
+	},
+	{
+		"name" : "EM FLORENTINA FRANCISCA DE OLIVEIRA",
+		"ip" : "172.16.61.30",
+		"latitude" : -23.70990500,
+		"longitude" : -46.90552170
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL PREFEITO CAMILO CHAVES JÚNIOR 1",
+		"ip" : "172.16.30.60",
+		"latitude" : -18.98778000,
+		"longitude" : -49.46588400
+	},
+	{
+		"name" : "José Bonifácio",
+		"ip" : "172.16.28.210",
+		"latitude" : -23.96995000,
+		"longitude" : -46.38332000
+	},
+	{
+		"name" : "NEIM Boraceia 2 - UBS Boraceia",
+		"ip" : "172.16.1.100",
+		"latitude" : -23.75486200,
+		"longitude" : -45.85151300
+	},
+	{
+		"name" : "R TROMBETA x R SOLIMOES - WEISOPOLIS",
+		"ip" : "10.28.17.10",
+		"latitude" : -25.45903500,
+		"longitude" : -49.18453500
+	},
+	{
+		"name" : "EM APARECIDA FERREIRA CURSINO",
+		"ip" : "172.17.2.10",
+		"latitude" : -23.54851714,
+		"longitude" : -46.20703533
+	},
+	{
+		"name" : "CEUC CENT. EDUCACIONAL UNIFICADO DE COTIA TOTEM 01",
+		"ip" : "172.16.49.130",
+		"latitude" : -23.69124310,
+		"longitude" : -47.02881099
+	},
+	{
+		"name" : "CIEM - CENTRO INTEGRADO DE EDUCAÇÃO MUNICIPAL",
+		"ip" : "172.16.43.50",
+		"latitude" : -23.10727300,
+		"longitude" : -46.54427900
+	},
+	{
+		"name" : "ROSIRIS MARIA ANDREUCCI STOPA",
+		"ip" : "172.16.42.220",
+		"latitude" : -23.10248580,
+		"longitude" : -46.58100875
+	},
+	{
+		"name" : "Pça. dos Skates",
+		"ip" : "172.16.4.40",
+		"latitude" : -23.60173000,
+		"longitude" : -46.91510000
+	},
+	{
+		"name" : "Carrefour",
+		"ip" : "172.16.28.40",
+		"latitude" : -23.96850139,
+		"longitude" : -46.37019660
+	},
+	{
+		"name" : "EM PAULO ZING",
+		"ip" : "172.16.58.50",
+		"latitude" : -23.63278250,
+		"longitude" : -46.93872510
+	},
+	{
+		"name" : "ROTATÓRIA AV. BELO HORIZONTE x AV. RIO DE JANEIRO",
+		"ip" : "172.17.12.70",
+		"latitude" : -11.43187070,
+		"longitude" : -61.45471275
+	},
+	{
+		"name" : "TERMINAL DE ONIBUS",
+		"ip" : "10.48.17.30",
+		"latitude" : -25.44095980,
+		"longitude" : -49.18202990
+	},
+	{
+		"name" : "Praça 22 de Janeiro",
+		"ip" : "172.16.28.140",
+		"latitude" : -23.96937467,
+		"longitude" : -46.38713583
+	},
+	{
+		"name" : "EM MÁRIO PORTES",
+		"ip" : "172.17.0.250",
+		"latitude" : -23.54984740,
+		"longitude" : -46.25400080
+	},
+	{
+		"name" : "CEMEI - Centro Municipal de Educação Infantil Professora Celina Dib",
+		"ip" : "172.16.30.40",
+		"latitude" : -18.96846200,
+		"longitude" : -49.47916900
+	},
+	{
+		"name" : "Manuel de Abreu",
+		"ip" : "172.16.29.60",
+		"latitude" : -23.95139760,
+		"longitude" : -46.41311990
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL CIME SARAH FÉRES SILVEIRA 1",
+		"ip" : "172.16.30.150",
+		"latitude" : -18.98228100,
+		"longitude" : -49.44856100
+	},
+	{
+		"name" : "Gonzaguinha",
+		"ip" : "172.16.28.120",
+		"latitude" : -23.96902805,
+		"longitude" : -46.37992376
+	},
+	{
+		"name" : "Praça Barão",
+		"ip" : "172.16.28.170",
+		"latitude" : -23.96630224,
+		"longitude" : -46.38528635
+	},
+	{
+		"name" : "EM.CLODOALDO DOMINGUES",
+		"ip" : "172.16.48.230",
+		"latitude" : -23.58012600,
+		"longitude" : -46.91785440
+	},
+	{
+		"name" : "Prefeitura",
+		"ip" : "172.16.28.160",
+		"latitude" : -23.96720981,
+		"longitude" : -46.38314312
+	},
+	{
+		"name" : "PROF. MARIA JOSÉ CINTRA DOS SANTOS",
+		"ip" : "172.16.42.20",
+		"latitude" : -23.16768634,
+		"longitude" : -46.62631364
+	},
+	{
+		"name" : "Pça. Dr. Niso Viana",
+		"ip" : "172.16.5.90",
+		"latitude" : -23.59404000,
+		"longitude" : -46.83944000
+	},
+	{
+		"name" : "PCA MARIA ANTONIETA",
+		"ip" : "10.75.17.10",
+		"latitude" : -25.44125500,
+		"longitude" : -49.16122200
+	},
+	{
+		"name" : "EM THEREZINHA SOARES",
+		"ip" : "172.17.1.190",
+		"latitude" : -23.55732951,
+		"longitude" : -46.20105643
+	},
+	{
+		"name" : "Policlínica do Portão",
+		"ip" : "172.16.4.30",
+		"latitude" : -23.59786000,
+		"longitude" : -46.90607000
+	},
+	{
+		"name" : "E.M Candida Junqueira (Caic)",
+		"ip" : "172.16.10.140",
+		"latitude" : -21.68572200,
+		"longitude" : -45.24735400
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL PROFESSOR ILDEFONSO MASCARENHAS DA SILVA 1",
+		"ip" : "172.16.30.220",
+		"latitude" : -18.97736000,
+		"longitude" : -49.46911700
+	},
+	{
+		"name" : "Praça Odilon",
+		"ip" : "172.16.10.30",
+		"latitude" : -21.69884100,
+		"longitude" : -45.25624400
+	},
+	{
+		"name" : "Jatuarana com BR",
+		"ip" : "172.17.4.100",
+		"latitude" : -8.77841250,
+		"longitude" : -63.87213642
+	},
+	{
+		"name" : "PRACA SKATE",
+		"ip" : "10.44.17.10",
+		"latitude" : -25.42397133,
+		"longitude" : -49.18286362
+	},
+	{
+		"name" : "E.M Zilah Rezende (Rio do Peixe)",
+		"ip" : "172.16.10.150",
+		"latitude" : -21.68719200,
+		"longitude" : -45.25207200
+	},
+	{
+		"name" : "PRF",
+		"ip" : "10.7.51.59",
+		"latitude" : -25.46558500,
+		"longitude" : -54.44942300
+	},
+	{
+		"name" : "JATUARANA 2",
+		"ip" : "172.17.5.30",
+		"latitude" : -8.79004909,
+		"longitude" : -63.87924373
+	},
+	{
+		"name" : "VILA NOGUEIRA",
+		"ip" : "192.168.150.140",
+		"latitude" : -23.68901180,
+		"longitude" : -46.59562680
+	},
+	{
+		"name" : "EM JAIR ROCHA BATALHA",
+		"ip" : "172.17.1.170",
+		"latitude" : -23.54387134,
+		"longitude" : -46.21292809
+	},
+	{
+		"name" : "AV. DAS SERINGUEIRAS T14 - ESTRADA LINHA 94",
+		"ip" : "172.17.8.60",
+		"latitude" : -10.90247464,
+		"longitude" : -61.91465526
+	},
+	{
+		"name" : "Rio da Praia SESC",
+		"ip" : "172.16.1.140",
+		"latitude" : -23.83248600,
+		"longitude" : -46.11470000
+	},
+	{
+		"name" : "CEMEI TEREZINHA POMPEU (Parque das Colinas)",
+		"ip" : "172.16.10.180",
+		"latitude" : -21.71424800,
+		"longitude" : -45.26963400
+	},
+	{
+		"name" : "Orla de Araçatiba",
+		"ip" : "172.16.51.35",
+		"latitude" : -22.92550150,
+		"longitude" : -42.82814720
+	},
+	{
+		"name" : "EM TERESA MARTINS PINHAL",
+		"ip" : "172.17.0.170",
+		"latitude" : -23.54365068,
+		"longitude" : -46.23711170
+	},
+	{
+		"name" : "Matriz",
+		"ip" : "172.16.10.80",
+		"latitude" : -21.69783500,
+		"longitude" : -45.25409600
+	},
+	{
+		"name" : "JOÃO EVANGELISTA DE OLIVEIRA",
+		"ip" : "172.20.34.10",
+		"latitude" : -23.50363300,
+		"longitude" : -46.81343000
+	},
+	{
+		"name" : "PRAÇA DA MOÇA",
+		"ip" : "192.168.150.230",
+		"latitude" : -23.68884420,
+		"longitude" : -46.62575450
+	},
+	{
+		"name" : "AV JK \/ AV CANAÃ",
+		"ip" : "172.17.14.80",
+		"latitude" : -9.91349610,
+		"longitude" : -63.03158430
+	},
+	{
+		"name" : "ROTATÓRIA BR 364",
+		"ip" : "172.17.14.140",
+		"latitude" : -9.91556694,
+		"longitude" : -63.05471197
+	},
+	{
+		"name" : "PRAÇA DA MATRIZ",
+		"ip" : "192.168.150.240",
+		"latitude" : -23.68632750,
+		"longitude" : -46.62152520
+	},
+	{
+		"name" : "Creche Virginia Teodoro da Silva",
+		"ip" : "172.16.3.30",
+		"latitude" : -17.23566352,
+		"longitude" : -46.88416642
+	},
+	{
+		"name" : "Ponte Rodoviária",
+		"ip" : "172.16.10.70",
+		"latitude" : -21.69936700,
+		"longitude" : -45.25837700
+	},
+	{
+		"name" : "Marcia Macedo Meireles - CAIC",
+		"ip" : "172.16.2.190",
+		"latitude" : -17.22760300,
+		"longitude" : -46.86236400
+	},
+	{
+		"name" : "AV DOS NAVEGANTES(RICOY)",
+		"ip" : "192.168.151.50",
+		"latitude" : -23.72061300,
+		"longitude" : -46.62035530
+	},
+	{
+		"name" : "AV. PRESIDENTE NASSER COM AV. CURITIBA",
+		"ip" : "172.17.10.130",
+		"latitude" : -12.72899585,
+		"longitude" : -60.13643636
+	},
+	{
+		"name" : "KAIKAN - SAÍDA DA  RUA 26",
+		"ip" : "172.16.12.250",
+		"latitude" : -20.30754000,
+		"longitude" : -48.31347000
+	},
+	{
+		"name" : " Ataliba de Macedo Domingues",
+		"ip" : "172.16.56.66",
+		"latitude" : -22.94888199,
+		"longitude" : -42.99262231
+	},
+	{
+		"name" : "Ponte Rondon",
+		"ip" : "172.17.4.60",
+		"latitude" : -8.73910670,
+		"longitude" : -63.91692051
+	},
+	{
+		"name" : "DALVA FOGAÇA",
+		"ip" : "172.16.146.10",
+		"latitude" : -23.52888600,
+		"longitude" : -46.88741700
+	},
+	{
+		"name" : "Calçadão",
+		"ip" : "172.16.28.130",
+		"latitude" : -23.96905161,
+		"longitude" : -46.37806025
+	},
+	{
+		"name" : "BANCO DO BRASIL",
+		"ip" : "172.16.6.20",
+		"latitude" : -20.02444220,
+		"longitude" : -48.93874650
+	},
+	{
+		"name" : "CEMEI - Centro Municipal de Educação Infantil Nair Ferrari Clemente",
+		"ip" : "172.16.30.100",
+		"latitude" : -18.98800600,
+		"longitude" : -49.46677500
+	},
+	{
+		"name" : "Fábrica de vidro",
+		"ip" : "172.16.28.190",
+		"latitude" : -23.96224920,
+		"longitude" : -46.39328234
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL PROFESSOR ILDEFONSO MASCARENHAS DA SILVA 2",
+		"ip" : "172.16.31.40",
+		"latitude" : -18.97736000,
+		"longitude" : -49.46911700
+	},
+	{
+		"name" : "LUCINEIA DE OLIVEIRA",
+		"ip" : "172.20.66.10",
+		"latitude" : -23.49959800,
+		"longitude" : -46.88772500
+	},
+	{
+		"name" : "EM ISABEL RIBEIRO LEAL LEITE",
+		"ip" : "172.16.58.90",
+		"latitude" : -23.61642770,
+		"longitude" : -46.94288250
+	},
+	{
+		"name" : "SERRARIA",
+		"ip" : "192.168.150.80",
+		"latitude" : -23.69969900,
+		"longitude" : -46.61229960
+	},
+	{
+		"name" : "Colégio Alfredo Parodi",
+		"ip" : "192.168.9.10",
+		"latitude" : -25.49399956,
+		"longitude" : -49.21006150
+	},
+	{
+		"name" : "Upa",
+		"ip" : "192.168.10.32",
+		"latitude" : -19.80136500,
+		"longitude" : -44.00726500
+	},
+	{
+		"name" : "Ponte dos barreiros",
+		"ip" : "172.16.28.240",
+		"latitude" : -23.96130906,
+		"longitude" : -46.41288256
+	},
+	{
+		"name" : "Divisa da Praia",
+		"ip" : "172.16.28.50",
+		"latitude" : -23.96854367,
+		"longitude" : -46.35665143
+	},
+	{
+		"name" : "EM ROSA AUGUSTA DE MORAES",
+		"ip" : "172.16.58.170",
+		"latitude" : -23.61812750,
+		"longitude" : -46.95231550
+	},
+	{
+		"name" : "Escola Giusfredo Santini",
+		"ip" : "172.16.0.140",
+		"latitude" : -23.82837700,
+		"longitude" : -46.14396700
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL HUGO DE OLIVEIRA CARVALHO 1",
+		"ip" : "172.16.30.230",
+		"latitude" : -18.96407600,
+		"longitude" : -49.47116000
+	},
+	{
+		"name" : "EM AFONSO CAPORALI FILHO",
+		"ip" : "172.17.2.90",
+		"latitude" : -23.54156000,
+		"longitude" : -46.16581000
+	},
+	{
+		"name" : "AV. CUIABÁ - FRENTE AO FÓRUM",
+		"ip" : "172.17.12.80",
+		"latitude" : -11.43475990,
+		"longitude" : -61.45338447
+	},
+	{
+		"name" : "ELIANE CASTANON PEREIRA",
+		"ip" : "172.21.18.10",
+		"latitude" : -23.47822200,
+		"longitude" : -46.88433200
+	},
+	{
+		"name" : "Neim Osvaldo Justo",
+		"ip" : "172.16.0.210",
+		"latitude" : -23.80605100,
+		"longitude" : -46.08745100
+	},
+	{
+		"name" : "Colegio IPE",
+		"ip" : "192.168.5.10",
+		"latitude" : -25.47581408,
+		"longitude" : -49.16996355
+	},
+	{
+		"name" : "AV. MARECHAL RONDON X R. DOS MINEIROS",
+		"ip" : "172.17.8.70",
+		"latitude" : -10.87549989,
+		"longitude" : -61.95496436
+	},
+	{
+		"name" : "Ginásio de Esportes",
+		"ip" : "172.16.0.20",
+		"latitude" : -23.84163200,
+		"longitude" : -46.13677300
+	},
+	{
+		"name" : "BOSQUE CENTRAL",
+		"ip" : "10.98.17.10",
+		"latitude" : -25.43970600,
+		"longitude" : -49.19498200
+	},
+	{
+		"name" : "E.M CANDIDO ARANTES",
+		"ip" : "172.16.6.170",
+		"latitude" : -20.02208050,
+		"longitude" : -48.91815320
+	},
+	{
+		"name" : "Escola estadual professor Archimedes Bava",
+		"ip" : "172.16.1.30",
+		"latitude" : -23.80671903,
+		"longitude" : -46.05158341
+	},
+	{
+		"name" : "E.M Elvira De Freita Oliveira",
+		"ip" : "192.168.10.70",
+		"latitude" : -19.77446700,
+		"longitude" : -43.98518100
+	},
+	{
+		"name" : "JOÃO DE ALMEIDA LEMOS",
+		"ip" : "172.17.114.10",
+		"latitude" : -23.49282000,
+		"longitude" : -46.88358200
+	},
+	{
+		"name" : "Divisa linha vermelha",
+		"ip" : "172.16.29.40",
+		"latitude" : -23.95298540,
+		"longitude" : -46.36756000
+	},
+	{
+		"name" : "EM ALVARO DE CAMPOS",
+		"ip" : "172.17.0.230",
+		"latitude" : -23.55031000,
+		"longitude" : -46.24713000
+	},
+	{
+		"name" : "AV MAMORE 2",
+		"ip" : "172.17.5.100",
+		"latitude" : -8.77151771,
+		"longitude" : -63.84196136
+	},
+	{
+		"name" : "Ilha Porchat",
+		"ip" : "172.16.28.100",
+		"latitude" : -23.97516446,
+		"longitude" : -46.37115899
+	},
+	{
+		"name" : "Teleferico",
+		"ip" : "172.16.28.30",
+		"latitude" : -23.97020097,
+		"longitude" : -46.36584942
+	},
+	{
+		"name" : "EM ALTAIR DO NASCIMENTO MASSEI",
+		"ip" : "172.16.52.230",
+		"latitude" : -23.59660600,
+		"longitude" : -46.87304360
+	},
+	{
+		"name" : "Casemiro Karman",
+		"ip" : "192.168.7.10",
+		"latitude" : -25.44864480,
+		"longitude" : -49.55551100
+	},
+	{
+		"name" : "INSS",
+		"ip" : "172.16.29.20",
+		"latitude" : -23.96253616,
+		"longitude" : -46.38846230
+	},
+	{
+		"name" : "ELIZABETH PARMINONDI",
+		"ip" : "172.16.226.10",
+		"latitude" : -23.48277500,
+		"longitude" : -46.88430400
+	},
+	{
+		"name" : "DR ENEAS",
+		"ip" : "192.168.250.14",
+		"latitude" : -23.55660469,
+		"longitude" : -46.67040530
+	},
+	{
+		"name" : "Jacob Emerich",
+		"ip" : "172.16.28.200",
+		"latitude" : -23.96492278,
+		"longitude" : -46.39166097
+	},
+	{
+		"name" : "DR ARNALDO",
+		"ip" : "192.168.250.50",
+		"latitude" : -23.55540156,
+		"longitude" : -46.66793781
+	},
+	{
+		"name" : "SKATE PARK 1",
+		"ip" : "172.17.5.60",
+		"latitude" : -8.75328030,
+		"longitude" : -63.86202635
+	},
+	{
+		"name" : "Hospital",
+		"ip" : "172.16.0.80",
+		"latitude" : -23.84309400,
+		"longitude" : -46.13979600
+	},
+	{
+		"name" : "Presidente Wilson",
+		"ip" : "172.16.28.90",
+		"latitude" : -23.97200184,
+		"longitude" : -46.36898482
+	},
+	{
+		"name" : "Pista de Pouso",
+		"ip" : "172.16.29.10",
+		"latitude" : -23.96955500,
+		"longitude" : -46.36063400
+	},
+	{
+		"name" : "Vila Valença",
+		"ip" : "172.16.28.80",
+		"latitude" : -23.96431832,
+		"longitude" : -46.37217429
+	},
+	{
+		"name" : "Praça Tom Jobim",
+		"ip" : "172.16.28.150",
+		"latitude" : -23.97061124,
+		"longitude" : -46.38537432
+	},
+	{
+		"name" : "Divisa Praia Grande",
+		"ip" : "172.16.29.50",
+		"latitude" : -23.98691200,
+		"longitude" : -46.39777970
+	},
+	{
+		"name" : "COTOXÓ",
+		"ip" : "192.168.250.40",
+		"latitude" : -23.53618543,
+		"longitude" : -46.68798102
+	},
+	{
+		"name" : "Amador Bueno ",
+		"ip" : "172.16.28.60",
+		"latitude" : -23.96700560,
+		"longitude" : -46.37756000
+	},
+	{
+		"name" : "PRAÇA CASTELO BRANCO",
+		"ip" : "192.168.150.20",
+		"latitude" : -23.68633710,
+		"longitude" : -46.62419830
+	},
+	{
+		"name" : "Praia dos Milionarios",
+		"ip" : "172.16.28.110",
+		"latitude" : -23.97233242,
+		"longitude" : -46.37343597
+	},
+	{
+		"name" : "João Ramalho",
+		"ip" : "172.16.29.30",
+		"latitude" : -23.96519751,
+		"longitude" : -46.38466946
+	},
+	{
+		"name" : "PRAÇA DO COHAB",
+		"ip" : "172.17.5.160",
+		"latitude" : -8.79165799,
+		"longitude" : -63.87377825
+	},
+	{
+		"name" : "Cap. Luiz Pimenta",
+		"ip" : "172.16.28.220",
+		"latitude" : -23.97187322,
+		"longitude" : -46.39829551
+	},
+	{
+		"name" : "LUZIA MARIA DA CONCEIÇÃO LIMA",
+		"ip" : "172.22.146.10",
+		"latitude" : -23.52213300,
+		"longitude" : -46.89730000
+	},
+	{
+		"name" : "ELISABETE TITTO 1",
+		"ip" : "172.22.2.20",
+		"latitude" : -23.51228274,
+		"longitude" : -46.89143144
+	},
+	{
+		"name" : "LUIZ SEBASTIAO",
+		"ip" : "192.168.3.10",
+		"latitude" : -25.36081410,
+		"longitude" : -49.15626680
+	},
+	{
+		"name" : "CÍVICO",
+		"ip" : "172.16.46.10",
+		"latitude" : -25.39228278,
+		"longitude" : -49.24722420
+	},
+	{
+		"name" : "PRAÇA VILA APARECIDA",
+		"ip" : "172.16.13.10",
+		"latitude" : -20.32498800,
+		"longitude" : -48.32377800
+	},
+	{
+		"name" : "NELSON MARQUES",
+		"ip" : "172.22.226.10",
+		"latitude" : -23.48805373,
+		"longitude" : -46.81454693
+	},
+	{
+		"name" : "EM José Carlos Buzinaro",
+		"ip" : "172.16.1.70",
+		"latitude" : -23.76078600,
+		"longitude" : -45.90345400
+	},
+	{
+		"name" : "MARIA ROSA FERREIRA",
+		"ip" : "172.21.130.10",
+		"latitude" : -23.50574500,
+		"longitude" : -46.81005700
+	},
+	{
+		"name" : "SAIDA DA MATA",
+		"ip" : "172.16.13.20",
+		"latitude" : -20.31429000,
+		"longitude" : -48.33004600
+	},
+	{
+		"name" : "ESCOLA COOPEC",
+		"ip" : "172.17.12.100",
+		"latitude" : -11.43573460,
+		"longitude" : -61.44919914
+	},
+	{
+		"name" : "JOAQUIM SOARES",
+		"ip" : "172.18.50.10",
+		"latitude" : -23.51153920,
+		"longitude" : -46.86228817
+	},
+	{
+		"name" : "JOSÉ LEANDRO DE BARROS PIMENTEL 2",
+		"ip" : "172.17.162.20",
+		"latitude" : -23.53154353,
+		"longitude" : -46.89179569
+	},
+	{
+		"name" : "E.M Prof. Maria Lucia Soares Monteiro",
+		"ip" : "172.16.0.240",
+		"latitude" : -23.80022300,
+		"longitude" : -46.08042500
+	},
+	{
+		"name" : "RITA DE JESUS",
+		"ip" : "172.18.194.10",
+		"latitude" : -23.48696600,
+		"longitude" : -46.80534600
+	},
+	{
+		"name" : "CARLOS OSMARINHO DE LIMA - PROF. 02",
+		"ip" : "172.19.210.20",
+		"latitude" : -23.49851400,
+		"longitude" : -46.89291900
+	},
+	{
+		"name" : "VALE DO SOL",
+		"ip" : "172.22.242.10",
+		"latitude" : -23.54664141,
+		"longitude" : -46.88800921
+	},
+	{
+		"name" : "E.M AUTA CARDOSO DE MELLO",
+		"ip" : "172.17.1.10",
+		"latitude" : -23.55987715,
+		"longitude" : -46.22074535
+	},
+	{
+		"name" : "MEDUNEKAS 3",
+		"ip" : "172.20.82.30",
+		"latitude" : -23.52991400,
+		"longitude" : -46.89169981
+	},
+	{
+		"name" : "LAMBDA",
+		"ip" : "192.169.1.228",
+		"latitude" : -25.39126934,
+		"longitude" : -49.16489421
+	},
+	{
+		"name" : "RENALDO CRUZ",
+		"ip" : "172.20.98.10",
+		"latitude" : -23.54750600,
+		"longitude" : -46.87283900
+	},
+	{
+		"name" : "MATILDE ABREU DE MORAES",
+		"ip" : "172.21.194.10",
+		"latitude" : -23.50105300,
+		"longitude" : -46.86716600
+	},
+	{
+		"name" : "LEONARDO AUGUSTO MARCELO DOS SANTOS",
+		"ip" : "172.17.130.10",
+		"latitude" : -23.49318500,
+		"longitude" : -46.88276700
+	},
+	{
+		"name" : "ALPHA",
+		"ip" : "192.169.5.80",
+		"latitude" : -25.39124823,
+		"longitude" : -49.16576421
+	},
+	{
+		"name" : "ALFREDO DO CARMO",
+		"ip" : "172.19.162.10",
+		"latitude" : -23.50844835,
+		"longitude" : -46.89256115
+	},
+	{
+		"name" : "BR-364 COM AV. BELO HORIZONTE",
+		"ip" : "172.17.12.90",
+		"latitude" : -11.43858662,
+		"longitude" : -61.45490525
+	},
+	{
+		"name" : "EGIDIO COSTA - PROF.",
+		"ip" : "172.16.178.10",
+		"latitude" : -23.49580300,
+		"longitude" : -46.89018200
+	},
+	{
+		"name" : "Caixa Economica",
+		"ip" : "172.16.1.160",
+		"latitude" : -23.84837000,
+		"longitude" : -46.13751000
+	},
+	{
+		"name" : "PRF",
+		"ip" : "192.169.1.199",
+		"latitude" : -25.39045305,
+		"longitude" : -49.16598650
+	},
+	{
+		"name" : "NEIM Chacara Vista Linda",
+		"ip" : "172.16.1.130",
+		"latitude" : -23.83324900,
+		"longitude" : -46.12291400
+	},
+	{
+		"name" : "CONCEIÇÃO",
+		"ip" : "192.168.150.100",
+		"latitude" : -23.70301930,
+		"longitude" : -46.61884150
+	},
+	{
+		"name" : "ARACY MARTINS DE LIMA",
+		"ip" : "172.20.210.10",
+		"latitude" : -23.51040600,
+		"longitude" : -46.89197200
+	},
+	{
+		"name" : "AV. JK \/ SENADOR GOMES",
+		"ip" : "172.16.6.60",
+		"latitude" : -20.02681860,
+		"longitude" : -48.91096820
+	},
+	{
+		"name" : "BENEDITO ADHERBAL FARBO",
+		"ip" : "172.19.18.10",
+		"latitude" : -23.54723300,
+		"longitude" : -46.88840200
+	},
+	{
+		"name" : "SIDNEY SANTUCCI PROF.",
+		"ip" : "172.18.248.10",
+		"latitude" : -23.55088000,
+		"longitude" : -46.88357700
+	},
+	{
+		"name" : "POUSO DE ASA DELTA",
+		"ip" : "172.16.43.90",
+		"latitude" : -23.14886288,
+		"longitude" : -46.54623507
+	},
+	{
+		"name" : "ELISABETE TITTO 2",
+		"ip" : "172.22.2.30",
+		"latitude" : -23.51228274,
+		"longitude" : -46.89143144
+	},
+	{
+		"name" : "EE Praia de Boraceia",
+		"ip" : "172.16.1.80",
+		"latitude" : -23.75572900,
+		"longitude" : -45.85414900
+	},
+	{
+		"name" : "CEMEI LOURDES",
+		"ip" : "172.16.6.80",
+		"latitude" : -20.02027650,
+		"longitude" : -48.92201190
+	},
+	{
+		"name" : "NESTOR DE CAMARGO Pref",
+		"ip" : "172.18.104.10",
+		"latitude" : -23.49775049,
+		"longitude" : -46.81346345
+	},
+	{
+		"name" : "Prefeitura",
+		"ip" : "172.16.4.50",
+		"latitude" : -23.60627000,
+		"longitude" : -46.91520000
+	},
+	{
+		"name" : "DELTA",
+		"ip" : "192.169.6.202",
+		"latitude" : -25.39082928,
+		"longitude" : -49.16489421
+	},
+	{
+		"name" : "GUILHERME A SIQUEIRA Cap",
+		"ip" : "172.22.98.10",
+		"latitude" : -23.49293790,
+		"longitude" : -46.87701925
+	},
+	{
+		"name" : "DEIRÓ FELICIO DE ANDRADE",
+		"ip" : "172.16.162.10",
+		"latitude" : -23.54419600,
+		"longitude" : -46.88287000
+	},
+	{
+		"name" : "Praça Potangi",
+		"ip" : "172.16.1.120",
+		"latitude" : -23.83118600,
+		"longitude" : -46.12364800
+	},
+	{
+		"name" : "NEIM Boraceia 1",
+		"ip" : "172.16.1.90",
+		"latitude" : -23.75276200,
+		"longitude" : -45.85056200
+	},
+	{
+		"name" : "EMINOLDO HARGER",
+		"ip" : "172.20.2.10",
+		"latitude" : -23.48999533,
+		"longitude" : -46.81202010
+	},
+	{
+		"name" : "MARLENE PEREIRA SANTIAGO",
+		"ip" : "172.18.66.10",
+		"latitude" : -23.49798300,
+		"longitude" : -46.86689200
+	},
+	{
+		"name" : "MARIA DE MENEZES BEZERRA",
+		"ip" : "172.19.146.10",
+		"latitude" : -23.50813000,
+		"longitude" : -46.80881100
+	},
+	{
+		"name" : "CALÇADÃO",
+		"ip" : "172.16.6.180",
+		"latitude" : -20.02633820,
+		"longitude" : -48.93869120
+	},
+	{
+		"name" : "JOÃO CARVALHO DE LIMA",
+		"ip" : "172.17.98.10",
+		"latitude" : -23.50917500,
+		"longitude" : -46.88619300
+	},
+	{
+		"name" : "JOÃO FERNANDES",
+		"ip" : "172.20.56.10",
+		"latitude" : -23.53577306,
+		"longitude" : -46.88578931
+	},
+	{
+		"name" : "YOJIRO TAKAOKA Eng.",
+		"ip" : "172.19.114.10",
+		"latitude" : -23.48569590,
+		"longitude" : -46.95521225
+	},
+	{
+		"name" : "Ent. Tucunares",
+		"ip" : "172.16.50.20",
+		"latitude" : -20.19203600,
+		"longitude" : -50.92528400
+	},
+	{
+		"name" : "NEIM Prof. Zilmar Moura dos Santos",
+		"ip" : "172.16.0.180",
+		"latitude" : -23.82652400,
+		"longitude" : -46.11625800
+	},
+	{
+		"name" : "EM AGUINALDO SOUZA ESTRELA",
+		"ip" : "172.16.55.70",
+		"latitude" : -23.60734010,
+		"longitude" : -46.89655270
+	},
+	{
+		"name" : "CE JARDIM ARARUAMA",
+		"ip" : "172.16.54.250",
+		"latitude" : -23.61359380,
+		"longitude" : -46.93558750
+	},
+	{
+		"name" : "Colégio Hasdrubal Bellegard",
+		"ip" : "192.168.12.10",
+		"latitude" : -25.53561479,
+		"longitude" : -49.27321428
+	},
+	{
+		"name" : "Rotatória Rex",
+		"ip" : "172.16.10.50",
+		"latitude" : -21.67270600,
+		"longitude" : -45.27236900
+	},
+	{
+		"name" : "Joana",
+		"ip" : "172.16.11.55",
+		"latitude" : -22.92256500,
+		"longitude" : -42.81838400
+	},
+	{
+		"name" : "CE DORVALINA MARIA DE JESUS",
+		"ip" : "172.16.48.190",
+		"latitude" : -23.74837230,
+		"longitude" : -47.02681060
+	},
+	{
+		"name" : "EM Governador Mario Covas",
+		"ip" : "172.16.1.50",
+		"latitude" : -23.79369100,
+		"longitude" : -46.02445500
+	},
+	{
+		"name" : "MEDUNEKAS 1",
+		"ip" : "172.20.82.10",
+		"latitude" : -23.52991400,
+		"longitude" : -46.89169981
+	},
+	{
+		"name" : "Maria Vieira Barbosa",
+		"ip" : "192.168.10.80",
+		"latitude" : -19.77995400,
+		"longitude" : -44.08034750
+	},
+	{
+		"name" : "Rtt. Vila Mariana",
+		"ip" : "172.16.50.40",
+		"latitude" : -20.21798400,
+		"longitude" : -50.93025500
+	},
+	{
+		"name" : "Edimar Wright",
+		"ip" : "192.168.4.10",
+		"latitude" : -25.34239350,
+		"longitude" : -49.26830620
+	},
+	{
+		"name" : "CE VITÓRIA RÉGIA",
+		"ip" : "172.16.54.50",
+		"latitude" : -23.68362280,
+		"longitude" : -47.02344880
+	},
+	{
+		"name" : "EE Maria Celeste Pereira Leite",
+		"ip" : "172.16.1.60",
+		"latitude" : -23.79650500,
+		"longitude" : -45.99946500
+	},
+	{
+		"name" : "CE JOÃO PIRES MENDES",
+		"ip" : "172.16.50.70",
+		"latitude" : -23.59571200,
+		"longitude" : -46.90904970
+	},
+	{
+		"name" : "EM BENEDITO LAPORTE",
+		"ip" : "172.17.1.70",
+		"latitude" : -23.55023440,
+		"longitude" : -46.24810770
+	},
+	{
+		"name" : "Praça Nossa Senhora das Neves",
+		"ip" : "192.168.10.40",
+		"latitude" : -19.76648300,
+		"longitude" : -44.08722900
+	},
+	{
+		"name" : "AV. MARECHAL RONDON X AV. 6 DE MAIO",
+		"ip" : "172.17.8.80",
+		"latitude" : -10.88005983,
+		"longitude" : -61.94840451
+	},
+	{
+		"name" : "Sd. Três Fronteira",
+		"ip" : "172.16.50.30",
+		"latitude" : -20.21290700,
+		"longitude" : -50.91513400
+	},
+	{
+		"name" : "EM DORACY BAPTISTA DE CAMPOS",
+		"ip" : "172.17.1.90",
+		"latitude" : -23.55422534,
+		"longitude" : -46.20328000
+	},
+	{
+		"name" : "ALAMEDA DO IPE \/ JACARANDA",
+		"ip" : "172.17.14.90",
+		"latitude" : -9.91758562,
+		"longitude" : -63.03495443
+	},
+	{
+		"name" : " PRAÇA DO MENSAGEIRO",
+		"ip" : "172.17.10.70",
+		"latitude" : -12.73665652,
+		"longitude" : -60.11301213
+	},
+	{
+		"name" : "EM JOSÉ DA COSTA CHAVES",
+		"ip" : "172.16.55.230",
+		"latitude" : -23.61015640,
+		"longitude" : -46.88293510
+	},
+	{
+		"name" : "EM CAPUTERA",
+		"ip" : "172.16.48.150",
+		"latitude" : -23.68834170,
+		"longitude" : -46.91602000
+	},
+	{
+		"name" : "Parque Nanci",
+		"ip" : "172.16.53.3",
+		"latitude" : -22.92215468,
+		"longitude" : -42.84726797
+	},
+	{
+		"name" : "CE FELIX ALVES FOLHA",
+		"ip" : "172.16.54.90",
+		"latitude" : -23.61138470,
+		"longitude" : -46.90858790
+	},
+	{
+		"name" : "EM FRANCISCO NUNES DE OLIVEIRA",
+		"ip" : "172.16.56.90",
+		"latitude" : -23.60606600,
+		"longitude" : -46.92340390
+	},
+	{
+		"name" : "RUA COIMBRA",
+		"ip" : "192.168.150.200",
+		"latitude" : -23.69433790,
+		"longitude" : -46.63003180
+	},
+	{
+		"name" : "Pça. Central",
+		"ip" : "172.16.50.10",
+		"latitude" : -20.21103100,
+		"longitude" : -50.92712100
+	},
+	{
+		"name" : "Supermercado BH",
+		"ip" : "192.168.10.62",
+		"latitude" : -19.76080300,
+		"longitude" : -44.14743700
+	},
+	{
+		"name" : "AV. BERNARDINO DE LUCCA X AV. PIRACICABA",
+		"ip" : "172.16.14.150",
+		"latitude" : -23.52807891,
+		"longitude" : -47.14856102
+	},
+	{
+		"name" : "SECRETARIA DA EDUCAÇÃO",
+		"ip" : "172.16.21.1",
+		"latitude" : -22.75028667,
+		"longitude" : -47.41552904
+	},
+	{
+		"name" : "EM FRANCISCO DE PAULA CARRARO",
+		"ip" : "172.16.56.10",
+		"latitude" : -23.60116780,
+		"longitude" : -46.89440270
+	},
+	{
+		"name" : "CPA ",
+		"ip" : "172.17.4.240",
+		"latitude" : -8.74977270,
+		"longitude" : -63.91151100
+	},
+	{
+		"name" : "E.M José de Oliveira Santos",
+		"ip" : "172.16.0.190",
+		"latitude" : -23.82367581,
+		"longitude" : -46.11638488
+	},
+	{
+		"name" : "SECRETARIA DE EDUCAÇÃO 3",
+		"ip" : "172.16.8.40",
+		"latitude" : -23.49837500,
+		"longitude" : -46.86647000
+	},
+	{
+		"name" : "PRAÇA DA VITÓRIA",
+		"ip" : "172.17.14.100",
+		"latitude" : -9.91866085,
+		"longitude" : -63.03855162
+	},
+	{
+		"name" : "PRAÇA DO CONJ. SANTO ANTÔNIO",
+		"ip" : "172.17.4.250",
+		"latitude" : -8.74493311,
+		"longitude" : -63.89840599
+	},
+	{
+		"name" : "CEDEL DEROCHE",
+		"ip" : "172.17.4.230",
+		"latitude" : -8.76031106,
+		"longitude" : -63.90840124
+	},
+	{
+		"name" : "CAMPO JARDIM SANTANA",
+		"ip" : "172.17.5.140",
+		"latitude" : -8.75298788,
+		"longitude" : -63.81925765
+	},
+	{
+		"name" : "DR. DEODATO",
+		"ip" : "172.17.0.100",
+		"latitude" : -23.53860000,
+		"longitude" : -46.22295000
+	},
+	{
+		"name" : "AV. PARANÁ COM RUA 916 ",
+		"ip" : "172.17.10.80",
+		"latitude" : -12.72468746,
+		"longitude" : -60.10962305
+	},
+	{
+		"name" : "JOSÉ AMADOR REIS",
+		"ip" : "172.17.5.110",
+		"latitude" : -8.76342480,
+		"longitude" : -63.83766075
+	},
+	{
+		"name" : "BRASILIA \/ EUVALDO",
+		"ip" : "172.16.6.190",
+		"latitude" : -20.03048300,
+		"longitude" : -48.92996260
+	},
+	{
+		"name" : "São Braz",
+		"ip" : "192.168.8.10",
+		"latitude" : -25.41576380,
+		"longitude" : -49.35114010
+	},
+	{
+		"name" : "PRAÇA DOS MIGRANTES",
+		"ip" : "172.17.8.90",
+		"latitude" : -10.87602653,
+		"longitude" : -61.96270500
+	},
+	{
+		"name" : "Mamoré com Benedito Inocêncio",
+		"ip" : "172.17.4.140",
+		"latitude" : -8.76821581,
+		"longitude" : -63.84260383
+	},
+	{
+		"name" : "MUSEU",
+		"ip" : "172.16.6.90",
+		"latitude" : -20.02332140,
+		"longitude" : -48.94090130
+	},
+	{
+		"name" : "SKATE PARK 2",
+		"ip" : "172.17.5.70",
+		"latitude" : -8.75474210,
+		"longitude" : -63.85949315
+	},
+	{
+		"name" : "Av. Calama com Rio Madeira",
+		"ip" : "172.17.5.40",
+		"latitude" : -8.74685660,
+		"longitude" : -63.87760609
+	},
+	{
+		"name" : "José Amador dos Reis 2",
+		"ip" : "172.17.5.170",
+		"latitude" : -8.76584570,
+		"longitude" : -63.83692333
+	},
+	{
+		"name" : "Praça de Justinopolis",
+		"ip" : "192.168.10.22",
+		"latitude" : -19.79906000,
+		"longitude" : -44.01341500
+	},
+	{
+		"name" : "Parque da Cidade",
+		"ip" : "172.17.5.50",
+		"latitude" : -8.74599540,
+		"longitude" : -63.87337913
+	},
+	{
+		"name" : "ESCOLA SÔNIA BRASIL",
+		"ip" : "172.17.1.50",
+		"latitude" : -23.48475689,
+		"longitude" : -46.28623371
+	},
+	{
+		"name" : "Rocha Pombo",
+		"ip" : "192.168.6.10",
+		"latitude" : -25.53800600,
+		"longitude" : -49.36220300
+	},
+	{
+		"name" : "AV. BRIGADEIRO EDUARDO GOMES x AV. TANCREDO NEVES",
+		"ip" : "172.17.10.90",
+		"latitude" : -12.73858095,
+		"longitude" : -60.12235550
+	},
+	{
+		"name" : "AV. MELVIN JONES - AUTOESCOLA FÓRMULA 1",
+		"ip" : "172.17.10.140",
+		"latitude" : -12.72433468,
+		"longitude" : -60.14613338
+	},
+	{
+		"name" : "EM GUIOMAR PINHEIRO FRANCO",
+		"ip" : "172.17.2.50",
+		"latitude" : -23.51248732,
+		"longitude" : -46.14548161
+	},
+	{
+		"name" : "ROTATORIA RODOVIARIA",
+		"ip" : "172.16.12.90",
+		"latitude" : -20.32561700,
+		"longitude" : -48.31176600
+	},
+	{
+		"name" : "ESPAÇO ALTERNATIVO 2",
+		"ip" : "172.17.4.170",
+		"latitude" : -8.72608329,
+		"longitude" : -63.89314502
+	},
+	{
+		"name" : "Clério Boechat - Flamengo",
+		"ip" : "172.16.51.51",
+		"latitude" : -22.90460180,
+		"longitude" : -42.80214020
+	},
+	{
+		"name" : "Av. Sete de Setembro",
+		"ip" : "172.17.4.200",
+		"latitude" : -8.76468240,
+		"longitude" : -63.90237075
+	},
+	{
+		"name" : "EM MARIA LUIZA MENEZES DA FONSECA",
+		"ip" : "172.17.2.70",
+		"latitude" : -23.54039795,
+		"longitude" : -46.23385130
+	},
+	{
+		"name" : "MERCADO DO UM",
+		"ip" : "172.17.4.190",
+		"latitude" : -8.76285079,
+		"longitude" : -63.89597259
+	},
+	{
+		"name" : "Campos Sales com BR",
+		"ip" : "172.17.4.80",
+		"latitude" : -8.78339989,
+		"longitude" : -63.89757202
+	},
+	{
+		"name" : "PISTA DE CAMINHADA \/ CICLOVIA",
+		"ip" : "172.17.14.110",
+		"latitude" : -9.92141543,
+		"longitude" : -63.03455957
+	},
+	{
+		"name" : "Linux House",
+		"ip" : "100.100.0.20",
+		"latitude" : -25.39282928,
+		"longitude" : -49.16481481
+	},
+	{
+		"name" : "Supermercado EPA",
+		"ip" : "192.168.10.52",
+		"latitude" : -19.76778700,
+		"longitude" : -44.13203200
+	},
+	{
+		"name" : "Gama",
+		"ip" : "192.169.6.10",
+		"latitude" : -25.39026934,
+		"longitude" : -49.16579421
+	},
+	{
+		"name" : "IGREJA MATRIZ",
+		"ip" : "172.17.16.170",
+		"latitude" : -15.54985446,
+		"longitude" : -55.16856622
+	},
+	{
+		"name" : "ESPAÇO CEU  Z OESTE",
+		"ip" : "172.16.44.60",
+		"latitude" : -23.28960350,
+		"longitude" : -51.20369510
+	},
+	{
+		"name" : "EM VICENTINA PIRES DE OLIVEIRA",
+		"ip" : "172.16.48.70",
+		"latitude" : -23.65008000,
+		"longitude" : -46.95628800
+	},
+	{
+		"name" : "PRAÇA SÃO MIGUEL",
+		"ip" : "172.17.16.160",
+		"latitude" : -15.55306126,
+		"longitude" : -55.15242857
+	},
+	{
+		"name" : "RO 257",
+		"ip" : "172.17.14.120",
+		"latitude" : -9.92677527,
+		"longitude" : -63.01872250
+	},
+	{
+		"name" : "CE WALMOR CAETANO FERRARETO",
+		"ip" : "172.16.50.30",
+		"latitude" : -23.59642830,
+		"longitude" : -46.91299180
+	},
+	{
+		"name" : "FARMÁCIA",
+		"ip" : "172.17.16.190",
+		"latitude" : -15.55476518,
+		"longitude" : -55.16415358
+	},
+	{
+		"name" : "CURVA GALINHA",
+		"ip" : "172.16.6.220",
+		"latitude" : -20.02534090,
+		"longitude" : -48.93143650
+	},
+	{
+		"name" : "AV. BRASIL X RUA PADRE SILVIO MICHELUSSI",
+		"ip" : "172.17.8.110",
+		"latitude" : -10.88825194,
+		"longitude" : -61.92833503
+	},
+	{
+		"name" : "CEMPRE LOURDES LOPES ROMEIRO",
+		"ip" : "172.17.0.190",
+		"latitude" : -23.55096000,
+		"longitude" : -46.24982000
+	},
+	{
+		"name" : "CE ERNESTO MENDES DA SILVA",
+		"ip" : "172.16.54.170",
+		"latitude" : -23.60685470,
+		"longitude" : -46.92315570
+	},
+	{
+		"name" : "CE RITA HERDUVIRGES FORTES",
+		"ip" : "172.16.55.190",
+		"latitude" : -23.59277760,
+		"longitude" : -46.84756440
+	},
+	{
+		"name" : "PARQUE TAENE",
+		"ip" : "172.16.20.40",
+		"latitude" : -22.74086278,
+		"longitude" : -47.40524114
+	},
+	{
+		"name" : "EM FRANCISCA MANOEL DE OLIVEIRA",
+		"ip" : "172.16.61.190",
+		"latitude" : -23.60481530,
+		"longitude" : -46.91052720
+	},
+	{
+		"name" : "E.M NECIME",
+		"ip" : "172.16.6.100",
+		"latitude" : -20.01620230,
+		"longitude" : -48.91912580
+	},
+	{
+		"name" : "PSF JOSÉ VILELA",
+		"ip" : " 172.16.12.230",
+		"latitude" : -20.32738600,
+		"longitude" : -48.32193800
+	},
+	{
+		"name" : "FLAMBOYANT",
+		"ip" : "172.16.6.250",
+		"latitude" : -20.04145070,
+		"longitude" : -48.92867450
+	},
+	{
+		"name" : "EM ANTONIO NACIF SALEMI",
+		"ip" : "172.17.1.210",
+		"latitude" : -23.53099787,
+		"longitude" : -46.20267569
+	},
+	{
+		"name" : "PRAÇA DA BANDEIRA",
+		"ip" : "172.16.44.80",
+		"latitude" : -23.31145740,
+		"longitude" : -51.15951950
+	},
+	{
+		"name" : "EM CAMPININHA",
+		"ip" : "172.16.49.90",
+		"latitude" : -23.71485820,
+		"longitude" : -47.05742510
+	},
+	{
+		"name" : "FREI TEODOSIO",
+		"ip" : "172.16.7.10",
+		"latitude" : -20.03050220,
+		"longitude" : -48.93401540
+	},
+	{
+		"name" : "EM OSNY FLEURY DA SILVEIRA, PROF.DR.",
+		"ip" : "172.16.58.10",
+		"latitude" : -23.60788830,
+		"longitude" : -46.94655500
+	},
+	{
+		"name" : "Jardim Rafael",
+		"ip" : "172.16.1.150",
+		"latitude" : -23.81816100,
+		"longitude" : -46.09328300
+	},
+	{
+		"name" : "CE JEFFERSON REIS MONTALVÃO",
+		"ip" : "172.16.59.150",
+		"latitude" : -23.59464170,
+		"longitude" : -46.82778170
+	},
+	{
+		"name" : "CE MOISES DIAS CORVELO",
+		"ip" : "172.16.51.130",
+		"latitude" : -23.66922660,
+		"longitude" : -47.02229650
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL DE 1º E 2º GRAUS MACHADO DE ASSIS 1",
+		"ip" : "172.16.30.130",
+		"latitude" : -18.98402400,
+		"longitude" : -49.45762500
+	},
+	{
+		"name" : "EM ASTRÉA BARRAL",
+		"ip" : "172.17.1.130",
+		"latitude" : -23.54977330,
+		"longitude" : -46.24749920
+	},
+	{
+		"name" : "EMEI ROTARY",
+		"ip" : "172.16.20.80",
+		"latitude" : -22.74569079,
+		"longitude" : -47.37239640
+	},
+	{
+		"name" : "Beta",
+		"ip" : "192.169.5.30",
+		"latitude" : -25.39026934,
+		"longitude" : -49.16596421
+	},
+	{
+		"name" : "Helper Sem camera",
+		"ip" : "192.169.6.202",
+		"latitude" : -25.39326934,
+		"longitude" : -49.16589421
+	},
+	{
+		"name" : "E.M VICENTE",
+		"ip" : "172.16.6.110",
+		"latitude" : -20.02827920,
+		"longitude" : -48.94223400
+	},
+	{
+		"name" : "TREVO PREDILECTA",
+		"ip" : "172.16.12.240",
+		"latitude" : -20.30779000,
+		"longitude" : -48.29760600
+	},
+	{
+		"name" : "RUA UNIÃO",
+		"ip" : "172.17.5.130",
+		"latitude" : -8.77101200,
+		"longitude" : -63.82925829
+	},
+	{
+		"name" : "PRAÇA BOTYRA",
+		"ip" : "172.17.0.50",
+		"latitude" : -23.51730000,
+		"longitude" : -46.18587000
+	},
+	{
+		"name" : "AV. CARLOS GOMES 2",
+		"ip" : "172.17.4.220",
+		"latitude" : -8.76219909,
+		"longitude" : -63.90655932
+	},
+	{
+		"name" : "Trevo Hospital",
+		"ip" : "172.16.10.60",
+		"latitude" : -21.69544500,
+		"longitude" : -45.25702800
+	},
+	{
+		"name" : "PRAÇA DO LAGO",
+		"ip" : "172.17.14.50",
+		"latitude" : -9.89093525,
+		"longitude" : -63.03495570
+	},
+	{
+		"name" : "ESTRADA DA GRACIOSA ",
+		"ip" : "10.38.17.10",
+		"latitude" : -25.39263700,
+		"longitude" : -49.16609600
+	},
+	{
+		"name" : "ESCOLA MONTEIRO LOBATO",
+		"ip" : "172.17.16.70",
+		"latitude" : -15.56576757,
+		"longitude" : -55.17049081
+	},
+	{
+		"name" : "ESCOLA SABINA",
+		"ip" : "172.17.16.50",
+		"latitude" : -15.54796424,
+		"longitude" : -55.17484455
+	},
+	{
+		"name" : "PARQUE JACARANDAS",
+		"ip" : "172.16.20.50",
+		"latitude" : -22.75103050,
+		"longitude" : -47.36793453
+	},
+	{
+		"name" : "LAGO 1 DE SETEMBRO",
+		"ip" : "172.17.0.120",
+		"latitude" : -23.52452000,
+		"longitude" : -46.19095000
+	},
+	{
+		"name" : "Totem Escolar CEPT",
+		"ip" : "172.16.54.67",
+		"latitude" : -22.95763967,
+		"longitude" : -42.95326911
+	},
+	{
+		"name" : "AV CAP CASTRO COM RUA GERALDO MAGELA  ",
+		"ip" : "172.17.10.110",
+		"latitude" : -12.74246462,
+		"longitude" : -60.13660996
+	},
+	{
+		"name" : "TUCANO \/ CAÇAPAVA",
+		"ip" : "172.17.14.130",
+		"latitude" : -9.93095657,
+		"longitude" : -63.03193085
+	},
+	{
+		"name" : "MODULO IML",
+		"ip" : "192.168.250.42",
+		"latitude" : -23.55494000,
+		"longitude" : -46.67258000
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL SÃO LOURENÇO",
+		"ip" : "172.17.16.100",
+		"latitude" : -15.55832091,
+		"longitude" : -55.16235687
+	},
+	{
+		"name" : "ESCOLA MUNICIPAL AÍDA ANDRADE CHAVES 2",
+		"ip" : "172.16.30.30",
+		"latitude" : -18.95757900,
+		"longitude" : -49.47777100
+	},
+	{
+		"name" : "PRAÇA MARISA",
+		"ip" : "172.17.0.60",
+		"latitude" : -23.52327000,
+		"longitude" : -46.19460000
+	},
+	{
+		"name" : "CEDEL BNH",
+		"ip" : "172.17.8.150",
+		"latitude" : -10.89675938,
+		"longitude" : -61.91280750
+	},
+	{
+		"name" : "ESCOLA DALVA  LELIS GARCIA  PRADO ",
+		"ip" : "172.16.12.210",
+		"latitude" : -20.32539400,
+		"longitude" : -48.32553200
+	},
+	{
+		"name" : "AV. BRASIL X RUA LUÍS MUZAMBINHO",
+		"ip" : "172.17.8.120",
+		"latitude" : -10.88756838,
+		"longitude" : -61.92391823
+	},
+	{
+		"name" : "ESCOLA PAULO FREIRE",
+		"ip" : "172.17.16.140",
+		"latitude" : -15.55661853,
+		"longitude" : -55.15868895
+	},
+	{
+		"name" : "BOSQUE",
+		"ip" : "172.16.44.90",
+		"latitude" : -23.31324150,
+		"longitude" : -51.15888130
+	},
+	{
+		"name" : "Imigrantes com Estrada da Penal",
+		"ip" : "172.17.4.110",
+		"latitude" : -8.73531101,
+		"longitude" : -63.86502253
+	},
+	{
+		"name" : "CEDEL JK",
+		"ip" : "172.17.5.120",
+		"latitude" : -8.76761860,
+		"longitude" : -63.83531803
+	},
+	{
+		"name" : "Aeroporto",
+		"ip" : "172.17.4.150",
+		"latitude" : -8.71447411,
+		"longitude" : -63.89827860
+	},
+	{
+		"name" : "PRAÇA DA JACA",
+		"ip" : "172.17.0.130",
+		"latitude" : -23.54371000,
+		"longitude" : -46.22450000
+	},
+	{
+		"name" : "DEV",
+		"ip" : "192.169.200.201",
+		"latitude" : -25.00000000,
+		"longitude" : -50.00000000
+	},
+	{
+		"name" : "EE Joao Carlos do Rosário Lopes",
+		"ip" : "172.16.0.220",
+		"latitude" : -23.80516800,
+		"longitude" : -46.08354200
+	},
+	{
+		"name" : "CEIM LOURDES GUERRA",
+		"ip" : "172.17.1.230",
+		"latitude" : -23.52718268,
+		"longitude" : -46.18247044
+	},
+	{
+		"name" : "EM MELVIN JONES",
+		"ip" : "172.16.44.150",
+		"latitude" : -23.31421420,
+		"longitude" : -51.18500000
+	},
+	{
+		"name" : "ZERÃO",
+		"ip" : "172.16.44.70",
+		"latitude" : -23.32216140,
+		"longitude" : -51.16409280
+	},
+	{
+		"name" : "CONCHA ACÚSTICA",
+		"ip" : "172.16.44.100",
+		"latitude" : -23.31281260,
+		"longitude" : -51.15762500
+	},
+	{
+		"name" : "PRAÇA JUPIARA",
+		"ip" : "172.17.16.90",
+		"latitude" : -15.56545865,
+		"longitude" : -55.16742083
+	},
+	{
+		"name" : "Caic",
+		"ip" : "172.16.53.18",
+		"latitude" : -22.93194016,
+		"longitude" : -42.87702758
+	},
+	{
+		"name" : "LOJAS CEM",
+		"ip" : "172.16.6.120",
+		"latitude" : -20.02627110,
+		"longitude" : -48.93632550
+	},
+	{
+		"name" : "Portal da Entrada",
+		"ip" : "172.16.0.50",
+		"latitude" : -23.82878206,
+		"longitude" : -46.13779781
+	},
+	{
+		"name" : "João Monteiro",
+		"ip" : "172.16.56.35",
+		"latitude" : -22.96582542,
+		"longitude" : -43.00967000
+	},
+	{
+		"name" : "Lauro Sodre com Estrada do Belmont",
+		"ip" : "172.17.4.70",
+		"latitude" : -8.73316061,
+		"longitude" : -63.90089895
+	},
+	{
+		"name" : "Helper Totem",
+		"ip" : "192.168.200.20",
+		"latitude" : -30.05839800,
+		"longitude" : -51.18572400
+	},
+	{
+		"name" : "PRAÇA DA MATRIZ",
+		"ip" : "172.16.14.50",
+		"latitude" : -23.53088812,
+		"longitude" : -47.13535763
+	},
+	{
+		"name" : "MARIA JOSÉ DAMASCENO SANTOS",
+		"ip" : "172.22.178.10",
+		"latitude" : -23.49932109,
+		"longitude" : -46.87590480
+	},
+	{
+		"name" : "Praça 1º de Maio",
+		"ip" : "172.16.28.70",
+		"latitude" : -23.96059926,
+		"longitude" : -46.37700490
+	},
+	{
+		"name" : "ANTÔNIO FURTADO  -  Vila Esperança",
+		"ip" : "172.16.6.230",
+		"latitude" : -20.02142660,
+		"longitude" : -48.91666350
+	},
+	{
+		"name" : "FRANCISCO MORON",
+		"ip" : "172.16.6.210",
+		"latitude" : -20.01116910,
+		"longitude" : -48.91533010
+	},
+	{
+		"name" : "PRAÇA CENTRAL - CORONEL LUIZ ALVES",
+		"ip" : "172.16.20.20",
+		"latitude" : -22.75377700,
+		"longitude" : -47.41365693
+	},
+	{
+		"name" : "Praça Marechal Rondon",
+		"ip" : "172.17.4.210",
+		"latitude" : -8.76565550,
+		"longitude" : -63.90610523
+	},
+	{
+		"name" : "AV. JK \/ SINE",
+		"ip" : "172.16.6.130",
+		"latitude" : -20.02968130,
+		"longitude" : -48.91553770
+	},
+	{
+		"name" : "POLÍCIA CIVIL",
+		"ip" : "172.16.6.240",
+		"latitude" : -20.03021140,
+		"longitude" : -48.93308400
+	},
+	{
+		"name" : "Alda Furtado",
+		"ip" : "172.16.40.130",
+		"latitude" : -27.21216000,
+		"longitude" : -48.60212200
+	},
+	{
+		"name" : "TOTEM JUNINHO",
+		"ip" : "192.169.200.135",
+		"latitude" : -25.39124823,
+		"longitude" : -49.16576421
+	},
+	{
+		"name" : "CONJUNTO HAB. DOS TRABALHADORES",
+		"ip" : "172.16.20.60",
+		"latitude" : -22.73757670,
+		"longitude" : -47.39653369
+	},
+	{
+		"name" : "AV. PORTO VELHO COM RUA DOS PIONEIROS - CENTRO",
+		"ip" : "172.17.12.110",
+		"latitude" : -11.43485867,
+		"longitude" : -61.44658347
+	},
+	{
+		"name" : "ESTRADA DO VINHO X RUA CARLOS LEITÃO",
+		"ip" : "172.16.14.160",
+		"latitude" : -23.56212074,
+		"longitude" : -47.13195531
+	},
+	{
+		"name" : "Antonio Richartz",
+		"ip" : "172.16.40.120",
+		"latitude" : -27.18654300,
+		"longitude" : -48.60125800
+	},
+	{
+		"name" : "ESCOLA IVETE CHUERY",
+		"ip" : "172.17.2.190",
+		"latitude" : -23.54783918,
+		"longitude" : -46.19830891
+	},
+	{
+		"name" : "JK \/ GOIAS - POSTO SORRISO",
+		"ip" : "172.16.6.160",
+		"latitude" : -20.03180120,
+		"longitude" : -48.92129470
+	},
+	{
+		"name" : "Olinda Peixoto",
+		"ip" : "172.16.40.100",
+		"latitude" : -27.15143600,
+		"longitude" : -48.59037300
+	},
+	{
+		"name" : "Orla da Praia - Vista Linda",
+		"ip" : "172.16.0.70",
+		"latitude" : -23.81702900,
+		"longitude" : -46.08022500
+	},
+	{
+		"name" : "PRAÇA DA MIGRAÇÃO",
+		"ip" : "172.16.20.30",
+		"latitude" : -22.74255856,
+		"longitude" : -47.37096597
+	},
+	{
+		"name" : "E.M CEL. ALONSO",
+		"ip" : "172.16.6.70 ",
+		"latitude" : -20.02830880,
+		"longitude" : -48.93160340
+	},
+	{
+		"name" : "ESCOLA CLAUDIO ABRAHAO",
+		"ip" : "172.17.1.250",
+		"latitude" : -23.55619541,
+		"longitude" : -46.21922183
+	},
+	{
+		"name" : "JATUARANA 1",
+		"ip" : "172.17.5.20",
+		"latitude" : -8.79202779,
+		"longitude" : -63.88777209
+	},
+	{
+		"name" : "Imigrantes com Jorge Teixeira",
+		"ip" : "172.17.4.50",
+		"latitude" : -8.73983164,
+		"longitude" : -63.89048805
+	},
+	{
+		"name" : "PRAÇA DA REPÚBLICA",
+		"ip" : "172.16.14.60",
+		"latitude" : -23.52980470,
+		"longitude" : -47.13727428
+	},
+	{
+		"name" : "CALAMA COM DANIELA",
+		"ip" : "172.17.4.120",
+		"latitude" : -8.74166010,
+		"longitude" : -63.85317542
+	},
+	{
+		"name" : "HOSPITAL JOAO PAULO SEGUNDO",
+		"ip" : "172.17.5.10",
+		"latitude" : -8.79016029,
+		"longitude" : -63.89571292
+	},
+	{
+		"name" : "EM José Ermínio de Moraes Filho",
+		"ip" : "172.16.1.40",
+		"latitude" : -23.81628100,
+		"longitude" : -46.04287300
+	},
+	{
+		"name" : "CAMPOS SALES COM JOÃO PAULO SEGUNDO",
+		"ip" : "172.17.4.90",
+		"latitude" : -8.80104490,
+		"longitude" : -63.89341283
+	},
+	{
+		"name" : "Mamoré com Amazonas",
+		"ip" : "172.17.4.130",
+		"latitude" : -8.75648080,
+		"longitude" : -63.84529516
+	},
+	{
+		"name" : "AGENOR LINO DE MATOS - DEP",
+		"ip" : "172.16.178.10",
+		"latitude" : -23.49843200,
+		"longitude" : -46.88940300
+	},
+	{
+		"name" : "Parque Ecológico",
+		"ip" : "172.17.5.150",
+		"latitude" : -8.68647802,
+		"longitude" : -63.86827816
+	},
+	{
+		"name" : "ESPAÇO ALTERNATIVO 1",
+		"ip" : "172.17.4.160",
+		"latitude" : -8.73359719,
+		"longitude" : -63.89178848
+	},
+	{
+		"name" : "EM CECILIA DE SOUZA LIMA VIANNA",
+		"ip" : "172.17.2.210",
+		"latitude" : -23.68071161,
+		"longitude" : -46.18252630
+	},
+	{
+		"name" : "AV CARLOS GOMES 1",
+		"ip" : "172.17.5.180",
+		"latitude" : -8.75836940,
+		"longitude" : -63.89041905
+	},
+	{
+		"name" : "AVENIDA ARACAÍ CENTRO CULTURAL BRASITAL",
+		"ip" : "172.16.14.100",
+		"latitude" : -23.53228169,
+		"longitude" : -47.13161848
+	},
+	{
+		"name" : "EM CENIRA ARAUJO PEREIRA",
+		"ip" : "172.17.1.110",
+		"latitude" : -23.35599283,
+		"longitude" : -46.16032070
+	},
+	{
+		"name" : "CIEP DOM EDUARDO KOAIK",
+		"ip" : "172.16.20.210",
+		"latitude" : -22.73148650,
+		"longitude" : -47.39022674
+	},
+	{
+		"name" : "EM GERALDO GONÇALVES DOS SANTOS",
+		"ip" : "172.16.57.190",
+		"latitude" : -23.60866160,
+		"longitude" : -46.92940880
+	},
+	{
+		"name" : "C.E.C CENTRO EDUCACIONAL E DE COVIVENCIA",
+		"ip" : "172.16.20.70",
+		"latitude" : -22.73037363,
+		"longitude" : -47.40613415
+	},
+	{
+		"name" : "EMEI PROFª TELMA LAUDISSI D'AVILLA",
+		"ip" : "172.16.20.100",
+		"latitude" : -22.76952571,
+		"longitude" : -47.41820760
+	},
+	{
+		"name" : "ELVIRA LEFEVRE S. NEMER",
+		"ip" : "172.16.242.10",
+		"latitude" : -23.50917500,
+		"longitude" : -46.88619300
+	},
+	{
+		"name" : "ROTATÓRIA DA FINAL  AV MARINGÁ",
+		"ip" : "172.16.44.110",
+		"latitude" : -23.32533960,
+		"longitude" : -51.17675210
+	},
+	{
+		"name" : "AV. ALIPIO ERNESTO GRAEBIN COM BR-174",
+		"ip" : "172.17.10.100",
+		"latitude" : -12.73339220,
+		"longitude" : -60.13001420
+	},
+	{
+		"name" : "EM PROFESSORA ANA MARIA PEREIRA",
+		"ip" : "172.16.57.70",
+		"latitude" : -23.60427330,
+		"longitude" : -46.90069000
+	},
+	{
+		"name" : "EMEFEI PROFª  M.G VALENTE Dª BENINHA",
+		"ip" : "172.16.20.200",
+		"latitude" : -22.77490564,
+		"longitude" : -47.41943466
+	},
+	{
+		"name" : "EM RECANTO SUAVE",
+		"ip" : "172.16.60.90",
+		"latitude" : -23.59789830,
+		"longitude" : -46.82747170
+	},
+	{
+		"name" : "PRAÇA DO CJ MARIA CECÍLIA",
+		"ip" : "172.16.44.50",
+		"latitude" : -23.25780360,
+		"longitude" : -51.15072820
+	},
+	{
+		"name" : "EMEI EUFRASIA GARCIA DE SOUZA",
+		"ip" : "172.16.20.190",
+		"latitude" : -22.72843304,
+		"longitude" : -47.38275427
+	},
+	{
+		"name" : "CIEP CARMELINA PELLEGRINO CERVONE",
+		"ip" : "172.16.20.160",
+		"latitude" : -22.73237592,
+		"longitude" : -47.38197531
+	},
+	{
+		"name" : "CIEP ANGELICA SEGA TREMOCOLDI",
+		"ip" : "172.16.20.140",
+		"latitude" : -22.72745540,
+		"longitude" : -47.39525804
+	},
+	{
+		"name" : "CIEP CHARLES KEESE DODSON",
+		"ip" : "172.16.20.110",
+		"latitude" : -22.77521617,
+		"longitude" : -47.38732000
+	},
+	{
+		"name" : "EMEFEI IRAIDES FERREIRA LOURENÇO",
+		"ip" : "172.16.20.180",
+		"latitude" : -22.74170521,
+		"longitude" : -47.36674800
+	},
+	{
+		"name" : "EMEI PROFª. CLOTILDE TEIXEIRA CULLEN",
+		"ip" : "172.16.20.130",
+		"latitude" : -22.73104249,
+		"longitude" : -47.39436134
+	},
+	{
+		"name" : "A.D.I DR EUVALDO DE QUEIROZ DIAS",
+		"ip" : "172.16.20.220",
+		"latitude" : -22.73927300,
+		"longitude" : -47.38236686
+	},
+	{
+		"name" : "ESCOLA PROF. AUREA CONÇALVES MARQUETI",
+		"ip" : "172.17.16.180",
+		"latitude" : -15.56782270,
+		"longitude" : -55.18336626
+	},
+	{
+		"name" : "EM BAIRRO SÃO MIGUEL",
+		"ip" : "172.16.52.70",
+		"latitude" : -23.63380140,
+		"longitude" : -46.93684070
+	},
+	{
+		"name" : "CIEP PROFº JOSE RENATO PEDROSO",
+		"ip" : "172.16.20.230",
+		"latitude" : -22.77733490,
+		"longitude" : -47.39268860
+	},
+	{
+		"name" : "Av. Mamoré 1",
+		"ip" : "172.17.5.90",
+		"latitude" : -8.76279872,
+		"longitude" : -63.84387979
+	},
+	{
+		"name" : "CAIC IRMÃ DULCE",
+		"ip" : "172.16.20.170",
+		"latitude" : -22.76998180,
+		"longitude" : -47.39100476
+	},
+	{
+		"name" : "EMEFEI ANALIA DE LUCCA FURLAN",
+		"ip" : "172.16.20.90",
+		"latitude" : -22.73893050,
+		"longitude" : -47.48465706
+	},
+	{
+		"name" : "EMEI PROFº MARIANA FRACASSI SCHMIDT",
+		"ip" : "172.16.20.120",
+		"latitude" : -22.73633417,
+		"longitude" : -47.40594460
+	},
+	{
+		"name" : "EM WALDIR PAIVA",
+		"ip" : "172.17.2.30",
+		"latitude" : -23.53994073,
+		"longitude" : -46.21785479
+	},
+	{
+		"name" : "CIEP PROFº. THEREZINHA DE CASTRO PACHECO SBRAVATTI",
+		"ip" : "172.16.20.150",
+		"latitude" : -22.73237592,
+		"longitude" : -47.38197531
+	},
+	{
+		"name" : "JUNDIAPEBA ",
+		"ip" : "172.17.0.80",
+		"latitude" : -23.54359150,
+		"longitude" : -46.25795373
+	},
+	{
+		"name" : "WANDEIR RIBEIRO",
+		"ip" : "172.23.2.10",
+		"latitude" : -23.48140819,
+		"longitude" : -46.88063116
+	},
+	{
+		"name" : "CEI - VALDEMAR CHUBACI",
+		"ip" : "172.16.12.140",
+		"latitude" : -20.31518900,
+		"longitude" : -48.31953100
+	},
+	{
+		"name" : "PRAÇA SÃO SEBASTIAO",
+		"ip" : "172.16.12.50",
+		"latitude" : -20.31940900,
+		"longitude" : -48.31122300
+	},
+	{
+		"name" : "Rodoviária",
+		"ip" : "172.17.4.180",
+		"latitude" : -8.76882630,
+		"longitude" : -63.90673950
+	},
+	{
+		"name" : "CEMEI - Centro Municipal de Educação Infantil Maria Floripes Alves Machado 1",
+		"ip" : "172.16.30.90",
+		"latitude" : -18.98231300,
+		"longitude" : -49.43796500
+	},
+	{
+		"name" : "ALCINO FRANCISCO DE SOUZA - PROF",
+		"ip" : "172.16.34.10",
+		"latitude" : -23.52878300,
+		"longitude" : -46.89242100
+	},
+	{
+		"name" : "PRAÇA LARGO DOS MENDES",
+		"ip" : "172.16.14.80",
+		"latitude" : -23.52802962,
+		"longitude" : -47.13361288
+	},
+	{
+		"name" : "ESCOLA VERA VITALI",
+		"ip" : "172.16.12.150",
+		"latitude" : -20.31157600,
+		"longitude" : -48.32451300
+	},
+	{
+		"name" : "ESCOLA FRANCISCO GOMES DE SOUZA - MUNICIPAL",
+		"ip" : "172.16.12.160",
+		"latitude" : -20.31854000,
+		"longitude" : -48.31317000
+	},
+	{
+		"name" : "ESTRADA CAPELA DO CEPO",
+		"ip" : "172.16.14.120",
+		"latitude" : -23.58748011,
+		"longitude" : -47.10731016
+	},
+	{
+		"name" : "Antônio Lopes",
+		"ip" : "172.16.52.18",
+		"latitude" : -22.90387916,
+		"longitude" : -42.82647700
+	},
+	{
+		"name" : "Antônio Rufino ",
+		"ip" : "172.16.51.66",
+		"latitude" : -22.92928010,
+		"longitude" : -42.77745162
+	},
+	{
+		"name" : "TREVO DAS ANTAS",
+		"ip" : "172.16.12.70",
+		"latitude" : -20.33568800,
+		"longitude" : -48.30265200
+	},
+	{
+		"name" : "Unincor",
+		"ip" : "172.16.10.20",
+		"latitude" : -21.69280400,
+		"longitude" : -45.25909200
+	},
+	{
+		"name" : " Tatiana Chagas Memoria",
+		"ip" : "172.16.58.2",
+		"latitude" : -22.95604140,
+		"longitude" : -42.79583617
+	},
+	{
+		"name" : "EM JARDIM ROSALINA",
+		"ip" : "172.16.57.30",
+		"latitude" : -23.59702550,
+		"longitude" : -46.90423750
+	},
+	{
+		"name" : "PREFEITURA ",
+		"ip" : "172.16.12.120",
+		"latitude" : -20.32686900,
+		"longitude" : -48.31463800
+	},
+	{
+		"name" : "Parque Dondinho",
+		"ip" : "172.16.10.100",
+		"latitude" : -21.70331700,
+		"longitude" : -45.24739000
+	},
+	{
+		"name" : "EM CAP. MORBELO VENDRAMINI (Cristo)",
+		"ip" : "172.16.10.160",
+		"latitude" : -21.69518700,
+		"longitude" : -45.25421300
+	},
+	{
+		"name" : "ENTRADA PRINCIPAL",
+		"ip" : "172.16.12.60",
+		"latitude" : -20.33835200,
+		"longitude" : -48.30958800
+	},
+	{
+		"name" : "NALY BENEDICTA B. C. MANCINI- PROFª",
+		"ip" : "172.18.88.10",
+		"latitude" : -23.51555800,
+		"longitude" : -46.89743900
+	},
+	{
+		"name" : "NADIR ADOLFINA PEREIRA",
+		"ip" : "172.22.210.10",
+		"latitude" : -23.50278402,
+		"longitude" : -46.81344905
+	},
+	{
+		"name" : "MARIA DOLORES ZENDRON PENTEADO",
+		"ip" : "172.21.98.10",
+		"latitude" : -23.49073400,
+		"longitude" : -46.89026100
+	},
+	{
+		"name" : "MARIA DO CARMO DA SILVA",
+		"ip" : "172.22.162.10",
+		"latitude" : -23.54740745,
+		"longitude" : -46.87226411
+	},
+	{
+		"name" : "JOÃO TIBURCIO SILVA FILHO",
+		"ip" : "172.19.66.10",
+		"latitude" : -23.47665300,
+		"longitude" : -46.88477600
+	},
+	{
+		"name" : "JOSÉ DOMINGOS DA SILVEIRA Prof.",
+		"ip" : "172.17.152.10",
+		"latitude" : -23.50903299,
+		"longitude" : -46.80920969
+	},
+	{
+		"name" : "ALEXANDRINO DA SILVEIRA BUENO-PROF",
+		"ip" : "172.16.50.10",
+		"latitude" : -23.52823900,
+		"longitude" : -46.89007200
+	},
+	{
+		"name" : "E.M EULALIO GRUPPI",
+		"ip" : "172.17.2.170",
+		"latitude" : -23.53669433,
+		"longitude" : -46.18923423
+	},
+	{
+		"name" : "AMADOR AGUIAR",
+		"ip" : "172.16.66.10",
+		"latitude" : -23.48535900,
+		"longitude" : -46.81289700
+	},
+	{
+		"name" : "PRAÇA BAURU",
+		"ip" : "172.16.14.130",
+		"latitude" : -23.64331871,
+		"longitude" : -47.08015767
+	},
+	{
+		"name" : "MEDUNEKAS 2",
+		"ip" : "172.20.82.20",
+		"latitude" : -23.52991400,
+		"longitude" : -46.89169981
+	},
+	{
+		"name" : "JOSÉ LEANDRO DE BARROS PIMENTEL 1",
+		"ip" : "172.17.162.10",
+		"latitude" : -23.53154353,
+		"longitude" : -46.89179569
+	},
+	{
+		"name" : "MARIA ANDRELINA V NASTURELES",
+		"ip" : "172.21.82.10",
+		"latitude" : -23.54238371,
+		"longitude" : -46.89051483
+	},
+	{
+		"name" : "MARGARIDA MARIA MACIEL",
+		"ip" : "172.18.2.10",
+		"latitude" : -23.54263800,
+		"longitude" : -46.89023700
+	},
+	{
+		"name" : "JOSÉ EMIDIO DE AGUIAR",
+		"ip" : "172.19.82.10",
+		"latitude" : -23.49953800,
+		"longitude" : -46.87284600
+	},
+	{
+		"name" : "JARDIM TUPAN",
+		"ip" : "172.21.42.10",
+		"latitude" : -23.52902953,
+		"longitude" : -46.89144507
+	},
+	{
+		"name" : "APARECIDA CONCEIÇÃO SOARES AKYAMA",
+		"ip" : "172.20.194.10",
+		"latitude" : -23.51714700,
+		"longitude" : -46.90047900
+	},
+	{
+		"name" : "ROTATÓRIA MERCADO BOM LUGAR",
+		"ip" : "172.16.14.110",
+		"latitude" : -23.55858698,
+		"longitude" : -47.08855650
+	},
+	{
+		"name" : "ESTAÇÃO MOGI",
+		"ip" : "172.17.0.70",
+		"latitude" : -23.52133000,
+		"longitude" : -46.19671000
+	},
+	{
+		"name" : "PRAÇA DO ESPERANÇA",
+		"ip" : "172.17.5.80",
+		"latitude" : -8.75103961,
+		"longitude" : -63.84659659
+	},
+	{
+		"name" : "ARISTIDES DA COSTA E SILVA prof",
+		"ip" : "172.16.88.10",
+		"latitude" : -23.51474114,
+		"longitude" : -46.89497870
+	},
+	{
+		"name" : "ARMANDO CAVAZZA",
+		"ip" : "172.16.98.10",
+		"latitude" : -23.48849200,
+		"longitude" : -46.88950200
+	},
+	{
+		"name" : "SÃO JOÃO NOVO X DIVISA MUNICIPIO ITAPEVI",
+		"ip" : "172.16.14.140",
+		"latitude" : -23.53767007,
+		"longitude" : -47.01705013
+	},
+	{
+		"name" : "ZILÁ MARQUES DE CASTRO",
+		"ip" : "172.23.18.10",
+		"latitude" : -23.47794894,
+		"longitude" : -46.80451164
+	},
+	{
+		"name" : "BENEDITO VENÂNCIO",
+		"ip" : "172.19.194.10",
+		"latitude" : -23.49901900,
+		"longitude" : -46.87862100
+	},
+	{
+		"name" : "JOSÉ MARTINHO",
+		"ip" : "172.23.50.12",
+		"latitude" : -23.48681000,
+		"longitude" : -46.80772000
+	},
+	{
+		"name" : "LUZIA DAS GRAÇAS",
+		"ip" : "172.21.66.40",
+		"latitude" : -23.49893600,
+		"longitude" : -46.88768600
+	},
+	{
+		"name" : "EZIO BERZAGHI",
+		"ip" : "172.17.18.10",
+		"latitude" : -23.51524600,
+		"longitude" : -46.89488300
+	},
+	{
+		"name" : "ESTEVAN PLACÊNCIO",
+		"ip" : "172.17.2.10",
+		"latitude" : -23.50633200,
+		"longitude" : -46.86262200
+	},
+	{
+		"name" : "EVELYN MOSSE BARREIRO",
+		"ip" : "172.22.82.10",
+		"latitude" : -23.50132600,
+		"longitude" : -46.90301800
+	},
+	{
+		"name" : "VITORIA REGIANI ASSENZA DE MOURA",
+		"ip" : "172.21.242.10",
+		"latitude" : -23.51013631,
+		"longitude" : -46.86231080
+	},
+	{
+		"name" : "MARLY TEIXEIRA DE ALMEIDA",
+		"ip" : "172.21.178.10",
+		"latitude" : -23.54492600,
+		"longitude" : -46.88191971
+	},
+	{
+		"name" : "FIORAVANTE BARLETTA",
+		"ip" : "172.17.40.10",
+		"latitude" : -23.53553600,
+		"longitude" : -46.88425000
+	},
+	{
+		"name" : "BRUNO TOLAINI",
+		"ip" : "172.16.114.10",
+		"latitude" : -23.54664500,
+		"longitude" : -46.87060400
+	},
+	{
+		"name" : "AV MONTE CASTELO x RUA RIO AMAZONAS",
+		"ip" : "172.17.8.100",
+		"latitude" : -10.88172306,
+		"longitude" : -61.96788434
+	},
+	{
+		"name" : "VALDINEIA DE FÁTIMA CASSOLI",
+		"ip" : "172.21.226.10",
+		"latitude" : -23.48840700,
+		"longitude" : -46.88780800
+	},
+	{
+		"name" : "JULIO GOMES CAMISÃO",
+		"ip" : "172.17.194.10",
+		"latitude" : -23.48911745,
+		"longitude" : -46.81294371
+	},
+	{
+		"name" : "CARLOS OSMARINHO DE LIMA - PROF. 01",
+		"ip" : "172.19.210.10",
+		"latitude" : -23.49845600,
+		"longitude" : -46.89247600
+	},
+	{
+		"name" : "NEIM Professora Elizabeth Regina Aparecida Garcia",
+		"ip" : "172.16.0.150",
+		"latitude" : -23.82763400,
+		"longitude" : -46.14357600
+	},
+	{
+		"name" : "ESCOLA DONA MARIA ARTEMIR PIRES",
+		"ip" : "172.17.16.120",
+		"latitude" : -15.55319318,
+		"longitude" : -55.16253828
+	},
+	{
+		"name" : "ENEIAS RAIMUNDO DA SILVA - PROF.",
+		"ip" : "172.19.50.10",
+		"latitude" : -23.50134700,
+		"longitude" : -46.90202100
+	},
+	{
+		"name" : "PRAÇA TAKESHI ISHIMARU",
+		"ip" : "172.16.14.90",
+		"latitude" : -23.54083242,
+		"longitude" : -47.03725361
+	},
+	{
+		"name" : "EM JOVITA FRANCO",
+		"ip" : "172.17.1.30",
+		"latitude" : -23.53767175,
+		"longitude" : -46.20679695
+	},
+	{
+		"name" : "TARO MIZUTORI",
+		"ip" : "172.19.98.10",
+		"latitude" : -23.48097811,
+		"longitude" : -46.87980792
+	},
+	{
+		"name" : "MARISA ODAINE DE OLIVEIRA MOLINA",
+		"ip" : "172.21.162.10",
+		"latitude" : -23.53748420,
+		"longitude" : -46.87813877
+	},
+	{
+		"name" : "SUZETE DA COSTA E SILVA MARIANO",
+		"ip" : "172.19.2.10",
+		"latitude" : -23.52856800,
+		"longitude" : -46.86798400
+	},
+	{
+		"name" : "CARLOS OSMARINHO DE LIMA - PROF. 03",
+		"ip" : "172.19.210.30",
+		"latitude" : -23.49811200,
+		"longitude" : -46.89315100
+	},
+	{
+		"name" : "CARLOS OSMARINHO DE LIMA - PROF. 04",
+		"ip" : "172.19.210.40",
+		"latitude" : -23.49811200,
+		"longitude" : -46.89315100
+	},
+	{
+		"name" : "LEVY GONÇALVES DE OLIVEIRA",
+		"ip" : "172.17.232.10",
+		"latitude" : -23.47829200,
+		"longitude" : -46.80339400
+	},
+	{
+		"name" : "GILBERTO FLORÊNCIO-PROF.",
+		"ip" : "172.17.72.10",
+		"latitude" : -23.49601800,
+		"longitude" : -46.88320100
+	},
+	{
+		"name" : "LÁZARA AUGUSTA C SABATINE",
+		"ip" : "172.22.130.10",
+		"latitude" : -23.53801317,
+		"longitude" : -46.88646866
+	},
+	{
+		"name" : "Joaquim Nunes",
+		"ip" : "172.16.4.150",
+		"latitude" : -23.60549000,
+		"longitude" : -46.92719000
+	},
+	{
+		"name" : "AV SETE DE SETEMBRO 2",
+		"ip" : "172.17.5.190",
+		"latitude" : -8.76382190,
+		"longitude" : -63.89877093
+	},
+	{
+		"name" : "CLEIDE RODRIGUES FAGUNDES",
+		"ip" : "172.22.66.10",
+		"latitude" : -23.54325702,
+		"longitude" : -46.88532165
+	},
+	{
+		"name" : "SEU ZEQUINHA",
+		"ip" : "172.23.74.10",
+		"latitude" : -23.49082977,
+		"longitude" : -46.86798449
+	},
+	{
+		"name" : "ROGÉLIO LOPEZ RECAREY",
+		"ip" : "172.20.130.10",
+		"latitude" : -23.54368500,
+		"longitude" : -46.88990600
+	},
+	{
+		"name" : "DÉCIO TRUJILLO",
+		"ip" : "172.19.232.10",
+		"latitude" : -23.54233273,
+		"longitude" : -46.88502042
+	},
+	{
+		"name" : "DORIVAL FARIA",
+		"ip" : "172.19.34.10",
+		"latitude" : -23.49337399,
+		"longitude" : -46.87206018
+	},
+	{
+		"name" : "SANDRO LUIZ BRAGA",
+		"ip" : "172.18.226.10",
+		"latitude" : -23.49004900,
+		"longitude" : -46.88719000
+	},
+	{
+		"name" : "ROQUE SOARES SOUZA",
+		"ip" : "172.20.152.10",
+		"latitude" : -23.47820400,
+		"longitude" : -46.80418400
+	},
+	{
+		"name" : "ROBERTO LUIZ DE ARAUJO BRANDÃO",
+		"ip" : "172.18.216.10",
+		"latitude" : -23.54398330,
+		"longitude" : -46.88111794
+	},
+	{
+		"name" : "EGLE APARECIDA RODRIGUES CAMPOS",
+		"ip" : "172.21.2.10",
+		"latitude" : -23.52778891,
+		"longitude" : -46.88488357
+	},
+	{
+		"name" : "MARIO BEZERRA",
+		"ip" : "172.22.194.10",
+		"latitude" : -23.53796821,
+		"longitude" : -46.86659757
+	},
+	{
+		"name" : "RICARDO PEAGNO",
+		"ip" : "172.20.120.10",
+		"latitude" : -23.51276992,
+		"longitude" : -46.90296358
+	},
+	{
+		"name" : "Wiliam Aurelli Praça da primavera",
+		"ip" : "172.16.0.30",
+		"latitude" : -23.82769300,
+		"longitude" : -46.11448700
+	},
+	{
+		"name" : "RENATO ROSA",
+		"ip" : "172.18.168.10",
+		"latitude" : -23.54615300,
+		"longitude" : -46.87005400
+	},
+	{
+		"name" : "EIZABURO NOMURA Prof.",
+		"ip" : "172.16.194.10",
+		"latitude" : -23.53797900,
+		"longitude" : -46.87715000
+	},
+	{
+		"name" : "RAPOSO TAVARES",
+		"ip" : "172.18.152.10",
+		"latitude" : -23.50429400,
+		"longitude" : -46.87375200
+	},
+	{
+		"name" : "ELAINE CALSOLARI",
+		"ip" : "172.19.242.10",
+		"latitude" : -23.52803800,
+		"longitude" : -46.86472800
+	},
+	{
+		"name" : "ELISABETE RODRIGUES NUNES DE MELLO",
+		"ip" : "172.22.50.10",
+		"latitude" : -23.54755001,
+		"longitude" : -46.87294344
+	},
+	{
+		"name" : "PROF MARIA ELISA B. C. CHALUPPE",
+		"ip" : "172.18.24.10",
+		"latitude" : -23.50275000,
+		"longitude" : -46.87705100
+	},
+	{
+		"name" : "MARIA JOSÉ DE BARROS Prof.",
+		"ip" : "172.19.130.10",
+		"latitude" : -23.50966067,
+		"longitude" : -46.87912621
+	},
+	{
+		"name" : "ILDA MARTINS HOLANDA DA SILVA",
+		"ip" : "172.22.114.10",
+		"latitude" : -23.53801317,
+		"longitude" : -46.88646866
+	},
+	{
+		"name" : "E.M MARIA JOSE TENORIO DE AQUINO",
+		"ip" : "172.17.0.150\t",
+		"latitude" : -23.53849198,
+		"longitude" : -46.17751541
+	},
+	{
+		"name" : "ONOFRA DA SILVA",
+		"ip" : "172.18.114.10",
+		"latitude" : -23.54244500,
+		"longitude" : -46.87561000
+	},
+	{
+		"name" : "BR-174 X BR-364",
+		"ip" : "172.17.10.60",
+		"latitude" : -12.74088800,
+		"longitude" : -60.13200700
+	},
+	{
+		"name" : "E.M ARMINDO FREIRE MARMORA",
+		"ip" : "172.17.2.150",
+		"latitude" : -23.52129991,
+		"longitude" : -46.14540713
+	},
+	{
+		"name" : "CEMPRE BENEDITO FERREIRA LOPES",
+		"ip" : "172.17.2.210",
+		"latitude" : -23.54136544,
+		"longitude" : -46.20829832
+	}
+]
